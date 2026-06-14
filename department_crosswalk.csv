@@ -1,0 +1,480 @@
+﻿raw_label,campus,n,canonical_department,field_group,broad_field_group,confidence,notes
+Assistant Professor,UC San Diego,1,(missing — title leaked into Dept column),Other/unclear,Other/unclear,Confirm,SOURCE DATA ERROR: a title is in the Dept field; fix the source row
+Aerospace Enginering,UC Berkeley,1,Aerospace Enginering,Engineering,Applied STEM/engineering,auto,
+Agricultural and Resource Economics,UC Berkeley,9,Agricultural and Resource Economics,Economics/business/management,Quantitative social/professional,auto,
+Agricultural & Resource Economics,UC Berkeley,2,Agricultural and Resource Economics,Economics/business/management,Quantitative social/professional,auto,
+ARE,UC Berkeley,1,Agricultural and Resource Economics,Economics/business/management,Quantitative social/professional,High,
+Agricultural and Resource Economics,UC Davis,1,Agricultural and Resource Economics,Economics/business/management,Quantitative social/professional,auto,
+Agriculture and Resource Economics,UC Berkeley,1,Agriculture and Resource Economics,Economics/business/management,Quantitative social/professional,auto,
+Aiiso Yufeng Li Family Department of Chemical and Nano Engineering,UC San Diego,2,Chemical and Nano Engineering,Engineering,Applied STEM/engineering,auto,
+Anderson Graduate School of Management,UCLA,1,Management,Economics/business/management,Quantitative social/professional,auto,
+Anderson School of Management,UCLA,2,Management,Economics/business/management,Quantitative social/professional,auto,
+Anesthesiology and Pain Medicine,UC Davis,1,Anesthesiology and Pain Medicine,Medical/health sciences,Medical/health professional,auto,
+Animal Science,UC Davis,1,Animal Science,Biological/life sciences,Life/biomedical STEM,High,
+Anthropology,UC Berkeley,1,Anthropology,Social sciences,Social sciences,auto,
+Applied Mathematics,UC Merced,1,Applied Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Architecture,UC Berkeley,1,Architecture,Law/policy/education/professional,Professional/policy/law/education,auto,
+Architecture / Civil and Environmental Engineering /,UC Berkeley,1,Architecture / Civil and Environmental Engineering /,Engineering,Applied STEM/engineering,auto,
+Art History,UC Riverside,1,Art History,Humanities/arts,Humanities/arts,auto,
+Astronomy,UC Berkeley,3,Astronomy,Physical sciences,Core physical STEM,auto,
+Astronomy & Astrophysics and Physics,UC San Diego,1,Astronomy / Astrophysics / Physics,Physical sciences,Core physical STEM,auto,
+Astronomy &Astrophysics;Physics,UC San Diego,1,Astronomy / Astrophysics / Physics,Physical sciences,Core physical STEM,auto,
+Astronomy&Astrophysics and Physics,UC San Diego,1,Astronomy / Astrophysics / Physics,Physical sciences,Core physical STEM,auto,
+"Astronomy, Physics",UC Berkeley,1,Astronomy / Astrophysics / Physics,Physical sciences,Core physical STEM,auto,
+Atmospheric and Oceanic Sciences,UCLA,1,Atmospheric and Oceanic Sciences,Physical sciences,Core physical STEM,auto,
+Biochemistry,UC Riverside,1,Biochemistry,Physical sciences,Core physical STEM,auto,
+Biochemistry & Molecular Medicine,UC Davis,1,Biochemistry & Molecular Medicine,Physical sciences,Core physical STEM,auto,
+Biochemistry and Molecular Biophysics,UC San Diego,1,Biochemistry and Molecular Biophysics,Physical sciences,Core physical STEM,auto,
+Bioengineering,UC San Diego,16,Bioengineering,Engineering,Applied STEM/engineering,auto,
+Bioengineering,UCLA,7,Bioengineering,Engineering,Applied STEM/engineering,auto,
+Bioengineering,UC Berkeley,3,Bioengineering,Engineering,Applied STEM/engineering,auto,
+Bioengineering,UC Riverside,2,Bioengineering,Engineering,Applied STEM/engineering,auto,
+Bioengineering and Mechanical engineering,UC San Diego,1,Bioengineering and Mechanical engineering,Engineering,Applied STEM/engineering,auto,
+Bioengineering and Medicine,UC San Diego,1,Bioengineering and Medicine,Engineering,Applied STEM/engineering,auto,
+Biological Chemistry,UC Irvine,1,Biological Chemistry,Physical sciences,Core physical STEM,auto,
+Biological Sciences,UC San Diego,1,Biological Sciences,Biological/life sciences,Life/biomedical STEM,auto,
+Biomedical Engineering,UC Irvine,1,Biomedical Engineering,Engineering,Applied STEM/engineering,auto,
+Biomolecular Engineering,UC Santa Cruz,2,Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Cell & Developmental Biology,UC San Diego,9,Cell & Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Cell and Developmental Biology,UC San Diego,6,Cell & Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Cell & Developmental Biology, School of Biological Sciences",UC San Diego,1,Cell & Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+CDB,UC San Diego,1,Cell & Developmental Biology,Biological/life sciences,Life/biomedical STEM,High,confirmed: section of Biological Sciences
+Chemical and Biomolecular Engineering,UC Berkeley,9,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical & Biomolecular Engineering,UC Irvine,2,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+chemical and biomolecular engineering,UC Berkeley,1,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical & Biomolecular Engineering,UC Berkeley,1,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical and Biomolecular Engineering,UC Irvine,1,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical and Biomolecular Engineering,UCLA,1,Chemical and Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical and Environmental Engineering,UC Riverside,4,Chemical and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical And Environmental Engineering,UC Riverside,1,Chemical and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical & Environmental Engineering,UC Riverside,1,Chemical and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical and Nano Engineering,UC San Diego,8,Chemical and Nano Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical Engineering,UC Davis,1,Chemical Engineering,Engineering,Applied STEM/engineering,auto,
+Chemical Engineering and EECS,UC Berkeley,1,Chemical Engineering and Electrical Engineering and Computer Sciences ,Computer/data/EECS,Core quantitative STEM,auto,
+"Chemical Engineering, Microbiology and Molecular Genetics",UC Davis,1,"Chemical Engineering, Microbiology and Molecular Genetics",Engineering,Applied STEM/engineering,auto,
+Chemistry,UC Irvine,15,Chemistry,Physical sciences,Core physical STEM,auto,
+Chemistry,UC Riverside,11,Chemistry,Physical sciences,Core physical STEM,auto,
+Chemistry,UC Berkeley,9,Chemistry,Physical sciences,Core physical STEM,auto,
+Chemistry,UC Davis,9,Chemistry,Physical sciences,Core physical STEM,auto,
+Chemistry,UC San Diego,7,Chemistry,Physical sciences,Core physical STEM,auto,
+Chemistry,UC Santa Cruz,1,Chemistry,Physical sciences,Core physical STEM,auto,
+"Chemistry & Biochemistry, Physics",UC Santa Barbara,1,"Chemistry & Biochemistry, Physics",Physical sciences,Core physical STEM,auto,
+Chemistry and MCB,UC Berkeley,1,Chemistry / Molecular and Cell Biology (joint),Physical sciences,Core physical STEM,Confirm,joint; primary Chemistry
+Chemistry and Biochemistry,UC Santa Barbara,5,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry and Biochemistry,UC Santa Cruz,4,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry and Biochemistry,UCLA,4,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry and Biochemistry,UC Merced,2,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry & Biochemistry,UC Merced,2,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry & Biochemistry,UC Santa Barbara,1,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry & Biochemistry,UC Santa Cruz,1,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry & Biochemistry,UCLA,1,Chemistry and Biochemistry,Physical sciences,Core physical STEM,auto,
+Chemistry and Mol. Cell. Biol.,UC Davis,1,Chemistry and Molecular Cellula Biology,Physical sciences,Core physical STEM,auto,
+"Chemistry, Bioegineering, Chemical and Biomolecular Engineering",UC Berkeley,1,"Chemistry, Bioegineering, Chemical and Biomolecular Engineering",Engineering,Applied STEM/engineering,auto,
+"Chemistry, Earth and Planetary Sciences",UC Davis,1,"Chemistry, Earth and Planetary Sciences",Physical sciences,Core physical STEM,auto,
+Chemistry/Earth & Planetary Science,UC Berkeley,1,Chemistry / Earth & Planetary Science (joint),Physical sciences,Core physical STEM,auto,
+Civil and Environmental Engineering,UC Berkeley,10,Civil and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Civil and Environmental Engineering,UC Davis,4,Civil and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Civil & Environmental Engineering,UC Berkeley,2,Civil and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+"Civil and Environmental Engr Dept, UCLA",UCLA,1,Civil and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Cognitive & Information Sciences,UC Merced,1,Cognitive & Information Sciences,Computer/data/EECS,Core quantitative STEM,auto,
+Cognitive Science and CSE,UC San Diego,1,Cognitive Science and Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+College Writing Programs,UC Berkeley,1,College Writing Programs,Humanities/arts,Humanities/arts,auto,
+Communication,UC Davis,1,Communication,Social sciences,Social sciences,auto,
+"Communication, Psychology",UCLA,1,Communication / Psychology (joint),Social sciences,Social sciences,auto,
+Computational Medicine and Mathematics,UCLA,1,Computational Medicine / Mathematics,Mathematics & statistics,Core quantitative STEM,auto,joint
+Computer Science,UC Irvine,14,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science,UCLA,11,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science,UC Santa Barbara,8,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science,UC Davis,6,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science,UC Berkeley,3,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science,UC Riverside,2,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science & Statistics,UC Berkeley,1,Computer Science / Statistics (joint),Mathematics & statistics,Core quantitative STEM,auto,
+Computer Science and Engineering,UC San Diego,9,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science and Engineering,UC Riverside,7,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science and Engineering,UC Santa Cruz,6,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science and Engineering,UC Merced,4,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science & Engineering,UC San Diego,2,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science & Engineering,UC Santa Cruz,2,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Computer Science & Engineering,UC Riverside,1,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+CSE,UC San Diego,1,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,High,
+CSE and Mathematics,UC San Diego,1,Computer Science and Engineering / Mathematics (joint),Computer/data/EECS,Core quantitative STEM,Confirm,joint; primary CSE (was Math)
+CSE / Mathematics,UC San Diego,1,Computer Science and Engineering / Mathematics (joint),Computer/data/EECS,Core quantitative STEM,Confirm,joint; primary CSE (was Math)
+Computer Science and Mathematics,UCLA,2,Computer Science and Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Computer Science and Mathematics,UC Davis,1,Computer Science and Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+"Computer Science, Computational Medicine, Human Genetics,",UCLA,1,"Computer Science, Computational Medicine, Human Genetics,",Computer/data/EECS,Core quantitative STEM,auto,
+"Criminology, Law & Society",UC Irvine,1,"Criminology, Law & Society",Social sciences,Social sciences,auto,
+CSE and HDSI,UC San Diego,1,Computer Science and Engineering and Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Data Science,UC San Diego,1,Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+HDSI,UC San Diego,1,Data Science,Computer/data/EECS,Core quantitative STEM,High,data science institute
+Halicioglu Institute of Data Science,UC San Diego,1,Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Halicioglu School of Data Science and Computing,UC San Diego,1,Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Halıcıoğlu Data Science Institute,UC San Diego,1,Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Data Science & Physics,UC San Diego,1,Data Science & Physics,Computer/data/EECS,Core quantitative STEM,auto,
+Demography and Statistics,UC Berkeley,1,Demography and Statistics,Mathematics & statistics,Core quantitative STEM,auto,
+Department of Chemical and Environmental Engineering,UC Riverside,1,Department of Chemical and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Department of Chemical and Nano Engineering,UC San Diego,1,Department of Chemical and Nano Engineering,Engineering,Applied STEM/engineering,auto,
+Department of Chemistry,UC San Diego,1,Chemistry,Physical sciences,Core physical STEM,auto,
+Department of Civil and Environmental Engineering,UC Berkeley,1,Civil and Environmental Engineering,Engineering,Applied STEM/engineering,auto,
+Department of Computer Science,UC Irvine,1,Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Department of Computer Science and Engineering,UC Riverside,1,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+Department of Computer Science and Engineering,UC San Diego,1,Computer Science and Engineering,Computer/data/EECS,Core quantitative STEM,auto,
+"Department of Ecology, Behavior, and Evolution",UC San Diego,1,"Ecology, Behavior, and Evolution",Biological/life sciences,Life/biomedical STEM,auto,
+Department of Mathematics,UC Davis,3,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Department of Mathematics,UC San Diego,2,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Department of Mechanical Engineering,UC Riverside,1,Mechanical Engineering,Engineering,Applied STEM/engineering,auto,
+Department of Molecular and Cell Biology,UC Berkeley,1,Molecular and Cell Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Department of Physics and Astronomy,UC Riverside,1,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Department of Plant Biology,UC Davis,1,Plant Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Department of Statistics and Data Science,UCLA,1,Statistics and Data Science,Mathematics & statistics,Core quantitative STEM,auto,
+Departments of Statistics and Mathematics,UC Berkeley,2,Statistics and Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Dept of Mechanical and Aerospace Engineering,UC San Diego,1,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Developmental and Cell Biology,UC Irvine,1,Developmental and Cell Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Division of Biological Sciences: Physical Education,UC Berkeley,1,Biological Sciences: Physical Education,Biological/life sciences,Life/biomedical STEM,auto,
+Earth and Planetary Science,UC Berkeley,1,Earth and Planetary Science,Physical sciences,Core physical STEM,auto,
+Earth and Planetary Sciences,UC Davis,2,Earth and Planetary Sciences,Physical sciences,Core physical STEM,auto,
+Earth and Planetary Sciences,UC Riverside,1,Earth and Planetary Sciences,Physical sciences,Core physical STEM,auto,
+Earth System Science,UC Irvine,2,Earth System Science,Physical sciences,Core physical STEM,auto,
+EEB & SysBio,UC Irvine,1,Ecology & Evolutionary Biology / Systems Biology (joint),Biological/life sciences,Life/biomedical STEM,High,joint appointment
+Ecology and Evolutionary Biology,UC Irvine,1,Ecology and Evolutionary Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Ecology and Evolutionary BIology,UC Irvine,1,Ecology and Evolutionary Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Ecology & Evolutionary Biology,UC Irvine,1,Ecology and Evolutionary Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Ecology % Evolutionary Biology,UCLA,1,Ecology and Evolutionary Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Ecology and Evolutionary Biology,UCLA,1,Ecology and Evolutionary Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Ecology, Behavior and Evolution",UC San Diego,5,"Ecology, Behavior and Evolution",Biological/life sciences,Life/biomedical STEM,auto,
+"Ecology, Behavior, and Evolution",UC San Diego,2,"Ecology, Behavior and Evolution",Biological/life sciences,Life/biomedical STEM,auto,
+"Ecology, Behavior & Evolution",UC San Diego,1,"Ecology, Behavior and Evolution",Biological/life sciences,Life/biomedical STEM,auto,
+Ecology Behavior & Evolution,UC San Diego,1,"Ecology, Behavior and Evolution",Biological/life sciences,Life/biomedical STEM,auto,
+"Ecology, Evolution & Marine Biology",UC Santa Barbara,1,"Ecology, Evolution & Marine Biology",Biological/life sciences,Life/biomedical STEM,auto,
+"Ecology, Evolution, and Marine Biology",UC Santa Barbara,1,"Ecology, Evolution & Marine Biology",Biological/life sciences,Life/biomedical STEM,auto,
+Economics,UC San Diego,24,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UCLA,16,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UC Berkeley,13,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UC Santa Cruz,10,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UC Davis,4,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UC Riverside,1,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics,UC Santa Barbara,1,Economics,Economics/business/management,Quantitative social/professional,auto,
+Economics and Business,UC Berkeley,1,Economics and Business,Economics/business/management,Quantitative social/professional,auto,
+Economics and Global Policy & Strategy,UC San Diego,1,Economics and Global Policy & Strategy,Economics/business/management,Quantitative social/professional,auto,
+Economics and Law,UC Berkeley,1,Economics and Law,Economics/business/management,Quantitative social/professional,auto,
+EECS and Statistics,UC Berkeley,1,Electrical and Computer Engineering  and Statistics,Mathematics & statistics,Core quantitative STEM,auto,
+"EECS, AS&T",UC Berkeley,1,"Electrical and Computer Engineering , AS&T",Computer/data/EECS,Core quantitative STEM,auto,
+"EECS, Information, Mathematics & Statistics",UC Berkeley,1,"Electrical and Computer Engineering , Information, Mathematics & Statistics",Mathematics & statistics,Core quantitative STEM,auto,
+Electrical and Computer Engineering,UC San Diego,16,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical and Computer Engineering,UC Riverside,11,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical and Computer Engineering,UC Santa Barbara,7,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical and Computer Engineering,UC Davis,5,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+ECE,UC Santa Barbara,5,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,High,EE-centric; also covers computer engineering
+ECE,UC San Diego,4,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,High,EE-centric; also covers computer engineering
+Electrical and Computer Engineering,UCLA,4,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+ECE,UCLA,3,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,High,EE-centric; also covers computer engineering
+Electrical & Computer Engineering,UC Davis,1,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+ECE,UC Riverside,1,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,High,EE-centric; also covers computer engineering
+Electrical & Computer Engineering,UC Santa Barbara,1,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical and Computer Engineering,UC Santa Cruz,1,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical & Computer Engineering,UCLA,1,Electrical and Computer Engineering,Engineering,Applied STEM/engineering,auto,
+"ECE, CSE",UC San Diego,1,Electrical and Computer Engineering / Computer Science and Engineering (joint),Engineering,Applied STEM/engineering,Confirm,joint; primary ECE (or keep as Computer)
+Electrical Engineering,UC Merced,1,Electrical Engineering,Engineering,Applied STEM/engineering,auto,
+Electrical Engineering,UCLA,1,Electrical Engineering,Engineering,Applied STEM/engineering,auto,
+EECS,UC Berkeley,21,Electrical Engineering and Computer Sciences,Computer/data/EECS,Core quantitative STEM,High,spans EE + CS
+Electrical Engineering and Computer Sciences,UC Berkeley,8,Electrical Engineering and Computer Sciences,Computer/data/EECS,Core quantitative STEM,auto,
+Electrical Engineering & Computer Sciences,UC Berkeley,1,Electrical Engineering and Computer Sciences,Computer/data/EECS,Core quantitative STEM,auto,
+EECS/Mathematics,UC Berkeley,1,Electrical Engineering and Computer Sciences / Mathematics (joint),Computer/data/EECS,Core quantitative STEM,Confirm,joint; primary EECS (was mis-bucketed as Math)
+Electrical Engineering & Computer Science,UC Irvine,1,"Electrical Engineering, Computer Science",Computer/data/EECS,Core quantitative STEM,auto,
+"Electrical Engineering, Computer Science",UCLA,1,"Electrical Engineering, Computer Science",Computer/data/EECS,Core quantitative STEM,auto,
+"Electrical Engineering, Computer Science, Neurobiology",UCLA,1,"Electrical Engineering, Computer Science, Neurobiology",Computer/data/EECS,Core quantitative STEM,auto,
+Energy and Resources,UC Berkeley,1,Energy and Resources Group (ERG),Physical sciences,Core physical STEM,Confirm,interdisciplinary energy/climate/policy; could be Social sciences or Engineering
+Engineering,UC Riverside,2,Engineering,Engineering,Applied STEM/engineering,auto,
+Engineering,UC Davis,1,Engineering,Engineering,Applied STEM/engineering,auto,
+Engineering,UC Santa Cruz,1,Engineering,Engineering,Applied STEM/engineering,auto,
+Entomology and Nematology,UC Davis,1,Entomology and Nematology,Biological/life sciences,Life/biomedical STEM,High,
+"Environmental Science, Policy and Management",UC Berkeley,1,"Environmental Science, Policy and Management",Economics/business/management,Quantitative social/professional,auto,
+"Environmental Science, Policy, & Management",UC Berkeley,1,"Environmental Science, Policy and Management",Economics/business/management,Quantitative social/professional,auto,
+Environmental Sciences,UC Riverside,1,Environmental Sciences,Physical sciences,Core physical STEM,Confirm,soil/air/water; could be Biological
+Environmental Toxicology,UC Davis,5,Environmental Toxicology,Biological/life sciences,Life/biomedical STEM,Confirm,could be Medical/health sciences
+Epidemiology & Biostatistics,UC San Francisco,1,Epidemiology & Biostatistics,Mathematics & statistics,Core quantitative STEM,auto,
+Evolution and Ecology,UC Davis,3,Evolution and Ecology,Biological/life sciences,Life/biomedical STEM,auto,
+"Evolution, Ecology, and Organismal Biology",UC Riverside,3,"Evolution, Ecology, and Organismal Biology",Biological/life sciences,Life/biomedical STEM,auto,
+EEOB,UC Riverside,2,"Evolution, Ecology, and Organismal Biology",Biological/life sciences,Life/biomedical STEM,High,
+"Evolution, Ecology and Organismal Biology",UC Riverside,1,"Evolution, Ecology, and Organismal Biology",Biological/life sciences,Life/biomedical STEM,auto,
+Food Science and Technology,UC Davis,2,Food Science and Technology,Biological/life sciences,Life/biomedical STEM,High,agricultural/food science
+Food Science & Technology,UC Davis,1,Food Science and Technology,Biological/life sciences,Life/biomedical STEM,High,agricultural/food science
+French,UC Berkeley,2,French,Humanities/arts,Humanities/arts,auto,
+French (ELTS),UCLA,1,French,Humanities/arts,Humanities/arts,auto,
+Genome Center,UC Davis,1,Genome Center,Biological/life sciences,Life/biomedical STEM,High,
+Geography,UC Berkeley,1,Geography,Social sciences,Social sciences,auto,
+Geography,UCLA,1,Geography,Social sciences,Social sciences,auto,
+"Geography, Earth and Planetary Science",UC Berkeley,1,"Geography, Earth and Planetary Science",Physical sciences,Core physical STEM,auto,
+Goldman School of Public Policy,UC Berkeley,1,Goldman School of Public Policy,Law/policy/education/professional,Professional/policy/law/education,auto,
+Graduate School of Management,UC Davis,1,Graduate School of Management,Economics/business/management,Quantitative social/professional,auto,
+Haas School of Business,UC Berkeley,4,Haas School of Business,Economics/business/management,Quantitative social/professional,auto,
+Halicioglu Data Science Institute,UC San Diego,2,Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Human Ecology,UC Davis,1,Human Ecology,Biological/life sciences,Life/biomedical STEM,auto,
+Human Genetics,UCLA,1,Human Genetics,Biological/life sciences,Life/biomedical STEM,auto,
+Industrial Eng. & Operations Research and Haas School of Business,UC Berkeley,1,Industrial Eng. & Operations Research and Haas School of Business,Economics/business/management,Quantitative social/professional,auto,
+Industrial Engineering and Operations Research,UC Berkeley,2,Industrial Engineering and Operations Research,Engineering,Applied STEM/engineering,auto,
+IEOR,UC Berkeley,2,Industrial Engineering and Operations Research,Engineering,Applied STEM/engineering,High,
+Industrial Engineering & Operations Research,UC Berkeley,1,Industrial Engineering and Operations Research,Engineering,Applied STEM/engineering,auto,
+Institute of Geophysics and Planetary Physics,UC San Diego,1,Institute of Geophysics and Planetary Physics,Physical sciences,Core physical STEM,auto,
+Integrative Biology,UC Berkeley,4,Integrative Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Integrative Biology and Physiology,UCLA,1,Integrative Biology and Physiology,Biological/life sciences,Life/biomedical STEM,auto,
+"Integrative Biology, University of California Musuem of Paleontology",UC Berkeley,1,Integrative Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Internal Medicine,UC Davis,1,Internal Medicine,Medical/health sciences,Medical/health professional,auto,
+"Internal Medicine, School of Medicine",UC Davis,1,Internal Medicine,Medical/health sciences,Medical/health professional,auto,
+Italian Studies,UC Berkeley,1,Italian Studies,Humanities/arts,Humanities/arts,High,
+"Land, Air, and Water Resources",UC Davis,1,"Land, Air, and Water Resources",Physical sciences,Core physical STEM,Confirm,environmental/atmospheric/hydrology; normalizes 3 variants; could be Bio/Ag
+"Land, Air and Water Resources",UC Davis,1,"Land, Air, and Water Resources",Physical sciences,Core physical STEM,Confirm,environmental/atmospheric/hydrology; normalizes 3 variants; could be Bio/Ag
+Land Air and Water Resources,UC Davis,1,"Land, Air, and Water Resources",Physical sciences,Core physical STEM,Confirm,environmental/atmospheric/hydrology; normalizes 3 variants; could be Bio/Ag
+Landscape Architecture and Environmental Planning,UC Berkeley,1,Landscape Architecture and Environmental Planning,Law/policy/education/professional,Professional/policy/law/education,auto,
+Law,UCLA,1,Law,Law/policy/education/professional,Professional/policy/law/education,auto,
+Linguistics,UCLA,1,Linguistics,Social sciences,Social sciences,Confirm,cognitive/social science; some campuses place it in Humanities
+Logic and Philosophy of Science,UC Irvine,1,Logic and Philosophy of Science,Humanities/arts,Humanities/arts,auto,
+Management,UCLA,1,Management,Economics/business/management,Quantitative social/professional,auto,
+Materials,UC Santa Barbara,6,Materials,Engineering,Applied STEM/engineering,auto,
+Materials Department,UC Santa Barbara,1,Materials ,Engineering,Applied STEM/engineering,auto,
+Materials Science,UC Riverside,1,Materials Science,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UC Berkeley,4,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UC Davis,2,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UCLA,2,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials science and engineering,UC Berkeley,1,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UC Irvine,1,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UC Merced,1,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+Materials Science and Engineering,UC Riverside,1,Materials Science and Engineering,Engineering,Applied STEM/engineering,auto,
+"Materials Science and Engineering, Chemistry",UC Berkeley,1,Materials Science and Engineering / Chemistry (joint),Engineering,Applied STEM/engineering,auto,
+Math,UC Berkeley,6,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Math,UC San Diego,3,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Math,UC Riverside,2,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Math,UC Santa Barbara,1,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Math,UCLA,1,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Math Ept,UCLA,1,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC San Diego,42,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Berkeley,38,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Davis,23,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Irvine,20,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UCLA,18,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Santa Cruz,15,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Riverside,11,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics,UC Santa Barbara,11,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics and Aerospace Engineering,UCLA,1,Mathematics and Aerospace Engineering,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics and Data Science,UC San Diego,3,Mathematics and Data Science,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics and Physics,UC Berkeley,1,Mathematics and Physics,Mathematics & statistics,Core quantitative STEM,auto,
+Mathematics Department,UC Irvine,1,Mathematics,Mathematics & statistics,Core quantitative STEM,auto,
+"Mathematics, Mechanical & Aerosp Eng",UC Davis,1,"Mathematics, Mechanical & Aerosp Eng",Mathematics & statistics,Core quantitative STEM,auto,
+Mechanical and Aerospace Engineering,UC San Diego,11,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical and Aerospace Engineering,UC Merced,4,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical & Aerospace Engineering,UCLA,2,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical and Aerospace Engineering,UCLA,2,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical and Aerospace Engineering,UC Davis,1,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+MAE,UC San Diego,1,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,High,
+Mechanical and Aerospace engineering,UC San Diego,1,Mechanical and Aerospace Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical Engineering,UC Berkeley,12,Mechanical Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical Engineering,UC Riverside,7,Mechanical Engineering,Engineering,Applied STEM/engineering,auto,
+Mechanical Engineering,UC Santa Barbara,2,Mechanical Engineering,Engineering,Applied STEM/engineering,auto,
+ME,UC Riverside,1,Mechanical Engineering,Engineering,Applied STEM/engineering,High,
+Mechanical Engineering - Computer Science,UC Santa Barbara,1,Mechanical Engineering - Computer Science,Computer/data/EECS,Core quantitative STEM,auto,
+Medicine,UC San Diego,4,Medicine,Medical/health sciences,Medical/health professional,auto,
+Medicine,UC San Francisco,1,Medicine,Medical/health sciences,Medical/health professional,auto,
+Medicine,UCLA,1,Medicine,Medical/health sciences,Medical/health professional,auto,
+Medicine (Cardiology),UC San Francisco,1,Medicine,Medical/health sciences,Medical/health professional,auto,
+MELC and Rhetoric,UC Berkeley,1,Middle Eastern Languages and Cultures and Rhetoric,Humanities/arts,Humanities/arts,auto,
+Meyer and Renee Luskin School of Public Affairs,UCLA,1,Public Affairs,Law/policy/education/professional,Professional/policy/law/education,auto,
+Microbiology and Environmental Toxicology,UC Santa Cruz,1,Microbiology and Environmental Toxicology,Biological/life sciences,Life/biomedical STEM,auto,
+Microbiology and Molecular Genetics,UC Davis,3,Microbiology and Molecular Genetics,Biological/life sciences,Life/biomedical STEM,auto,
+Microbiology & Molecular Genetics,UC Davis,2,Microbiology and Molecular Genetics,Biological/life sciences,Life/biomedical STEM,auto,
+Microbiology and Molecular Genetics,UC Irvine,1,Microbiology and Molecular Genetics,Biological/life sciences,Life/biomedical STEM,auto,
+Microbiology and Plant Pathology,UC Riverside,2,Microbiology and Plant Pathology,Biological/life sciences,Life/biomedical STEM,auto,
+Microbiology & Plant Pathology,UC Riverside,1,Microbiology and Plant Pathology,Biological/life sciences,Life/biomedical STEM,auto,
+MIMG and Chemical & Biomolecular Engineering,UCLA,1,Microbiology Immunology & Molecular Genetics and Chemical & Biomolecular Engineering,Engineering,Applied STEM/engineering,auto,
+Molecular & Cell Biology and Chemistry,UC Berkeley,1,Molecular & Cell Biology and Chemistry,Physical sciences,Core physical STEM,auto,
+Molecular and Cell Biology,UC Berkeley,8,Molecular and Cell Biology,Biological/life sciences,Life/biomedical STEM,auto,
+MCB,UC Berkeley,1,Molecular and Cell Biology,Biological/life sciences,Life/biomedical STEM,High,
+Molecular Cell Biology,UC Merced,1,Molecular and Cell Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Molecular and Cell Biology, Physics",UC Berkeley,1,"Molecular and Cell Biology, Physics",Physical sciences,Core physical STEM,auto,
+"Molecular & Cell Biology, and Physics",UC Berkeley,1,"Molecular and Cell Biology, Physics",Physical sciences,Core physical STEM,auto,
+Molecular and Cellular Biology,UC Davis,2,Molecular and Cellular Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Molecular Cellular Biology,UC Davis,1,Molecular and Cellular Biology,Biological/life sciences,Life/biomedical STEM,auto,
+MCB,UC Davis,1,Molecular and Cellular Biology,Biological/life sciences,Life/biomedical STEM,High,
+Molecular Biology,UC San Diego,1,Molecular Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Molecular Biology and Biochemistry,UC Irvine,2,Molecular Biology and Biochemistry,Physical sciences,Core physical STEM,auto,
+Molecular Cellular and Developmental Biology,UCLA,1,Molecular Cellular and Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Molecular, Cell & Developmental Biology",UC Santa Cruz,1,Molecular Cellular and Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Molecular, Cell, and Developmental Biology",UC Santa Cruz,1,Molecular Cellular and Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Molecular, Cell and Developmental Biology",UC Santa Cruz,1,Molecular Cellular and Developmental Biology,Biological/life sciences,Life/biomedical STEM,auto,
+"Molecular, Cell and Systems Biology",UC Riverside,1,"Molecular, Cellular and Systems Biology",Biological/life sciences,Life/biomedical STEM,auto,
+MCD Biology,UC Santa Cruz,3,"Molecular, Cellular and Developmental Biology",Biological/life sciences,Life/biomedical STEM,High,normalizes MCD spelling variants
+Music,UC San Diego,1,Music,Humanities/arts,Humanities/arts,auto,
+NanoEngineering,UC San Diego,1,Nano Engineering,Engineering,Applied STEM/engineering,auto,
+CRESST,UCLA,1,"National Center for Research on Evaluation, Standards, and Student Testing (CRESST)",Law/policy/education/professional,Professional/policy/law/education,High,confirmed: GSE&IS education-assessment research center
+Near Eastern Languages & Cultures,UCLA,1,Near Eastern Languages & Cultures,Humanities/arts,Humanities/arts,auto,
+Neurobiology,UC San Diego,3,Neurobiology,Biological/life sciences,Life/biomedical STEM,auto,
+Neurobiology & Halıcıoğlu Data Science Institute,UC San Diego,1,Neurobiology & Data Science,Computer/data/EECS,Core quantitative STEM,auto,
+Neurobiology and Behavior,UC Irvine,8,Neurobiology and Behavior,Biological/life sciences,Life/biomedical STEM,auto,
+Neurobiology & Behavior,UC Irvine,1,Neurobiology and Behavior,Biological/life sciences,Life/biomedical STEM,auto,
+Neurology,UC San Francisco,1,Neurology,Medical/health sciences,Medical/health professional,auto,
+Neuroscience,UC Berkeley,7,Neuroscience,Biological/life sciences,Life/biomedical STEM,auto,
+"Neuroscience, Physiology, & Behavior",UC Davis,1,"Neuroscience, Physiology, & Behavior",Biological/life sciences,Life/biomedical STEM,auto,
+Neurosciences,UC San Diego,1,Neurosciences,Biological/life sciences,Life/biomedical STEM,auto,
+Neurosurgery,UC San Diego,1,Neurosurgery,Medical/health sciences,Medical/health professional,auto,
+Nuclear Engineering,UC Berkeley,10,Nuclear Engineering,Engineering,Applied STEM/engineering,auto,
+Nutrition,UC Davis,2,Nutrition,Biological/life sciences,Life/biomedical STEM,Confirm,nutritional biology; could be Medical/health
+"Obstetrics, Gynecology, and Reproductive Sciences",UC San Diego,1,"Obstetrics, Gynecology, and Reproductive Sciences",Biological/life sciences,Life/biomedical STEM,auto,
+Ophthalmology,UC San Francisco,2,Ophthalmology,Medical/health sciences,Medical/health professional,auto,
+Ophthalmology,UCLA,1,Ophthalmology,Medical/health sciences,Medical/health professional,auto,
+Otolaryngology - Head and Neck Surgery,UC San Francisco,1,Otolaryngology - Head and Neck Surgery,Medical/health sciences,Medical/health professional,auto,
+Pathology and Anthropology,UC San Diego,1,Pathology and Anthropology,Medical/health sciences,Medical/health professional,auto,
+"Pediatrics, Cell & Developmental Biology",UC San Diego,1,"Pediatrics, Cell & Developmental Biology",Biological/life sciences,Life/biomedical STEM,auto,
+Pharmaceutical Sciences,UC Irvine,2,Pharmaceutical Sciences,Medical/health sciences,Medical/health professional,High,
+Pharmaceutical Sciences and Chemistry,UC Irvine,1,Pharmaceutical Sciences and Chemistry,Physical sciences,Core physical STEM,auto,
+Pharmacology,UC Davis,1,Pharmacology,Medical/health sciences,Medical/health professional,High,
+Philosophy,UC Irvine,1,Philosophy,Humanities/arts,Humanities/arts,auto,
+Physical Therapy and Rehabilitation Science,UC San Francisco,1,Physical Therapy and Rehabilitation Science,Medical/health sciences,Medical/health professional,High,
+Physics,UC Berkeley,33,Physics,Physical sciences,Core physical STEM,auto,
+Physics,UC San Diego,19,Physics,Physical sciences,Core physical STEM,auto,
+Physics,UC Santa Barbara,15,Physics,Physical sciences,Core physical STEM,auto,
+Physics,UC Santa Cruz,8,Physics,Physical sciences,Core physical STEM,auto,
+Physics,UC Davis,3,Physics,Physical sciences,Core physical STEM,auto,
+Physics,UC Merced,1,Physics,Physical sciences,Core physical STEM,auto,
+physics,UC Merced,1,Physics,Physical sciences,Core physical STEM,auto,
+Physics & Neuroscience,UC Berkeley,1,Physics & Neuroscience,Physical sciences,Core physical STEM,auto,
+Physics and Astronomy,UC Davis,11,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics and Astronomy,UC Irvine,5,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics and Astronomy,UC Riverside,4,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics and Astronomy,UCLA,4,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics & Astronomy,UC Irvine,3,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics & Astronomy,UC Davis,2,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics and Astronomy,UC Berkeley,1,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics & Astronomy,UCLA,1,Physics and Astronomy,Physical sciences,Core physical STEM,auto,
+Physics and Neurobiology,UC San Diego,1,Physics and Neurobiology,Physical sciences,Core physical STEM,auto,
+Physiology and Psychiatry,UC San Francisco,1,Physiology and Psychiatry,Biological/life sciences,Life/biomedical STEM,auto,
+Plant and Microbial Biology,UC Berkeley,1,Plant and Microbial Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Plant Biology,UC Davis,1,Plant Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Plant Sciences,UC Davis,1,Plant Sciences,Biological/life sciences,Life/biomedical STEM,auto,
+"Policy, Oceanography, and Mechanical & Aerospace Engineering",UC San Diego,1,"Policy, Oceanography, and Mechanical & Aerospace Engineering",Engineering,Applied STEM/engineering,auto,
+Political Science,UC San Diego,15,Political Science,Social sciences,Social sciences,auto,
+Political science,UC San Diego,3,Political Science,Social sciences,Social sciences,auto,
+Political Science,UC Berkeley,1,Political Science,Social sciences,Social sciences,auto,
+Political Science,UC Merced,1,Political Science,Social sciences,Social sciences,auto,
+Political Science,UC Santa Barbara,1,Political Science,Social sciences,Social sciences,auto,
+Psychiatry,UC San Diego,5,Psychiatry,Medical/health sciences,Medical/health professional,auto,
+Psychiatry,UCLA,1,Psychiatry,Medical/health sciences,Medical/health professional,auto,
+Psychiatry and Biobehavioral Sciences,UCLA,1,Psychiatry and Biobehavioral Sciences,Medical/health sciences,Medical/health professional,auto,
+Psychological & Brain Sciences,UC Santa Barbara,1,Psychological and Brain Sciences,Social sciences,Social sciences,Confirm,psychology + neuroscience overlap
+Psychology,UCLA,7,Psychology,Social sciences,Social sciences,auto,
+Psychology,UC Davis,2,Psychology,Social sciences,Social sciences,auto,
+Psychology,UC San Diego,2,Psychology,Social sciences,Social sciences,auto,
+Psychology and Neuroscience,UC Berkeley,2,Psychology and Neuroscience,Biological/life sciences,Life/biomedical STEM,auto,
+Public Health,UC Merced,1,Public Health,Medical/health sciences,Medical/health professional,auto,
+Public policy,UC Riverside,1,Public policy,Law/policy/education/professional,Professional/policy/law/education,auto,
+Radiological Sciences,UCLA,2,Radiological Sciences,Medical/health sciences,Medical/health professional,High,
+"Radiology, Data Science",UC San Diego,1,"Radiology, Data Science",Computer/data/EECS,Core quantitative STEM,auto,
+Rady school,UC San Diego,1,Rady school,Economics/business/management,Quantitative social/professional,auto,
+Rady School of Management,UC San Diego,12,Management,Economics/business/management,Quantitative social/professional,auto,
+School of Business,UC Irvine,1,Management,Economics/business/management,Quantitative social/professional,auto,
+School of Global Policy and Strategy,UC San Diego,3,Global Policy and Strategy (GPS),Law/policy/education/professional,Professional/policy/law/education,Confirm,"policy school, economics-heavy; could be Economics or Social sciences"
+School of Global Policy and Strategy and Department of Economics,UC San Diego,1,Global Policy and Strategy and  Economics,Economics/business/management,Quantitative social/professional,auto,
+School of Law,UC Berkeley,1,Law,Law/policy/education/professional,Professional/policy/law/education,auto,
+SOM,UC San Diego,2,Medicine,Medical/health sciences,Medical/health professional,High,generic School of Medicine affiliation
+School of Public Health,UCLA,1,Public Health,Medical/health sciences,Medical/health professional,auto,
+Scripps Insitution of Oceanography,UC San Diego,1,Oceanography,Physical sciences,Core physical STEM,auto,
+Scripps Inst Oceanography,UC San Diego,1,Oceanography,Physical sciences,Core physical STEM,auto,
+Scripps Institution of Oceanography,UC San Diego,16,Oceanography,Physical sciences,Core physical STEM,auto,
+SIO,UC San Diego,2,Oceanography,Physical sciences,Core physical STEM,High,oceanography/earth/climate
+Scripps institution of oceanography,UC San Diego,1,Oceanography,Physical sciences,Core physical STEM,auto,
+SIO and MAE,UC San Diego,1,Oceanography,Physical sciences,Core physical STEM,Confirm,joint; primary SIO
+Scripps Oceanography,UC San Diego,1,Oceanography,Physical sciences,Core physical STEM,auto,
+Sociology,UC Riverside,2,Sociology,Social sciences,Social sciences,auto,
+Sociology,UC San Diego,1,Sociology,Social sciences,Social sciences,auto,
+"Sociology, Statistics, Computer Science, and EECS",UC Irvine,1,"Sociology, Statistics, Computer Science, and EECS",Mathematics & statistics,Core quantitative STEM,auto,
+Spanish & Portuguese,UC Berkeley,1,Spanish & Portuguese,Humanities/arts,Humanities/arts,auto,
+Statistics,UC Berkeley,13,Statistics,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics,UC Santa Cruz,1,Statistics,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics and Applied Probabilirt,UC Santa Barbara,1,Statistics and Applied Probability,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics and Applied Probability,UC Santa Barbara,5,Statistics and Applied Probability,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics & Applied Probability,UC Santa Barbara,1,Statistics and Applied Probability,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics and Data Science,UCLA,5,Statistics and Data Science,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics & Data Science,UCLA,1,Statistics and Data Science,Mathematics & statistics,Core quantitative STEM,auto,
+Statistics and EECS,UC Berkeley,1,Statistics and Electrical Engineering and Computer Sciences,Mathematics & statistics,Core quantitative STEM,auto,
+Structural Engineering,UC San Diego,9,Structural Engineering,Engineering,Applied STEM/engineering,auto,
+Systems Biology,UC Irvine,1,Systems Biology,Biological/life sciences,Life/biomedical STEM,auto,
+Systems Biology/School of Biological Sciences,UC Irvine,1,Biological Sciences,Biological/life sciences,Life/biomedical STEM,auto,
+The Rady School of Management,UC San Diego,1,Management,Economics/business/management,Quantitative social/professional,auto,
+"Theater, Dance, and Performance Studies and Berkeley Center for New Media",UC Berkeley,1,"Theater, Dance, and Performance Studies and Berkeley Center for New Media",Humanities/arts,Humanities/arts,auto,
+UGIS - Media Studies,UC Berkeley,1,Media Studies,Humanities/arts,Humanities/arts,auto,
+Urology,UC San Francisco,1,Urology,Medical/health sciences,Medical/health professional,auto,
+Urology,UCLA,1,Urology,Medical/health sciences,Medical/health professional,auto,
+,,,,,,,
+Anesthesiology,,,Anesthesiology,Medical/health sciences,,Confirm,2026-06-06 Hart classification revision
+Anesthesiology and Perioperative Care,,,Anesthesiology,Medical/health sciences,,Confirm,2026-06-06 Hart classification revision
+Audiology,,,Audiology,Health professions,,Confirm,2026-06-06 Hart classification revision
+Global Policy and Strategy,UC San Diego,,Global Policy and Strategy,Law & public policy,,Confirm,2026-06-06 Hart classification revision
+Chinese Studies,,,Chinese Studies,Humanities/arts,,Confirm,2026-06-06 Hart classification revision
+Chinese,UC Irvine,,Chinese,Humanities/arts,,Confirm,2026-06-06 Hart classification revision
+Accounting,,,Accounting,Business & management,,Confirm,2026-06-06 Hart classification revision
+College of Creative Studies,UC Santa Barbara,,College of Creative Studies,Humanities/arts,,Confirm,2026-06-06 Hart classification revision
+Provost - Muir,UC San Diego,,Muir College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Muir College,UC San Diego,,Muir College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Warren,UC San Diego,,Warren College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Warren College,UC San Diego,,Warren College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Revelle,UC San Diego,,Revelle College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Revelle College,UC San Diego,,Revelle College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Roosevelt,UC San Diego,,Roosevelt College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Roosevelt College,UC San Diego,,Roosevelt College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Third,UC San Diego,,Third College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Third College,UC San Diego,,Third College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Marshall,UC San Diego,,Marshall College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Marshall College,UC San Diego,,Marshall College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Sixth,UC San Diego,,Sixth College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Sixth College,UC San Diego,,Sixth College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Seventh,UC San Diego,,Seventh College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Seventh College,UC San Diego,,Seventh College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Provost - Eighth,UC San Diego,,Eighth College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Eighth College,UC San Diego,,Eighth College Writing Program,Humanities/arts,,Confirm,2026-06-06 college writing program
+Writing,UC Riverside,,University Writing Program,Humanities/arts,,Confirm,
+Applied Ocean Science,UC San Diego,,Oceanography,Physical sciences,,Confirm,
+"Management, Rady School of",UC San Diego,,Management,Economics/business/management,,Confirm,
+Rady School of Management,UC San Diego,,Management,Economics/business/management,,Confirm,
+International Studies,UC San Diego,,International Studies,Law/policy/education/professional,Professional/policy/law/education,Confirm,2026-06-09 un-folded from GPS per Hart - distinct undergrad interdisciplinary major in Div of Social Sciences
+Haas,UC Berkeley,,Haas School of Business,Economics/business/management,Quantitative social/professional,,
+Scripps Institution of Oceanography Department,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO profiles HR label
+"Climate, Atmospheric Sciences, and Physical Oceanography",UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO division
+Integrative Oceanography Division,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO division
+Marine Physical Laboratory,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO division
+Geosciences Research Division,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO division
+Institute of Geophysics and Planetary Physics,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO division (overrides line 217 self-map)
+Marine Biology,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO Marine Biology Research Division
+Center for Marine Biotechnology and Biomedecine,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO
+Marine Biodiversity and Conservation,UC San Diego,,Oceanography,Physical sciences,,Confirm,2026-06-08 SIO curriculum
+Center for Astrophysics and Space Sciences,UC San Diego,,Physics,Physical sciences,,Confirm,2026-06-08 Physics research center
+Structural System Facility,UC San Diego,,Structural Engineering,Engineering,,Confirm,2026-06-08 profiles HR label for Dept of Structural Engineering
+HALICIOGLU DATA SCIENCE INST,UC San Diego,,Data Science,Computer/data/EECS,,Confirm,2026-06-08 HDSI abbreviation (INST not Institute - prior rows missed it)
+Division of Biological Science,UC San Diego,,"Biological Sciences, School of",Biological/life sciences,,Confirm,2026-06-08 profiles residual; the Division is the School of Bio Sci
+"Ecology, Behavior and Evolution",UC San Diego,,"Biological Sciences, School of",Biological/life sciences,,Confirm,2026-06-08 fixes corrupted unquoted-comma row (line 146)
+Global Policy and Strategy,UC San Diego,,Global Policy and Strategy (GPS),Law/policy/education/professional,,Confirm,2026-06-08 unify GPS canonical spelling (overrides line 408)
+School of Global Policy & Strategy,UC San Diego,,Global Policy and Strategy (GPS),Law/policy/education/professional,,Confirm,2026-06-08 ampersand variant
+Human Rights and Migration Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor - not an academic department
+California Cultures in Comparative Perspective Minor Program,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+Public Service Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+African Studies Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+Native American and Indigenous Studies Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+Asian American and Pacific Islander Studies Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+Transnational Korean Studies Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+African American Studies Minor,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 undergrad minor
+Office of Animal Research,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Office of the Campus Counsel,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Vice Chancellor - Research,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Vice Chancellor - Equity Diversity Inclusion,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Director Office,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Information Services,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Health Information Services,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Patient Relations,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Student Health Services,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+EH & S,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Dean - Arts and Humanities,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Dean - Social Sciences,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Dean - Biological Sciences,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Teaching and Learning Commons,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Graduate Division,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Health Sciences Communications,UC San Diego,,(non-academic unit),Other/unclear,,Confirm,2026-06-08 admin office
+Division of Computer Science (EECS),UC Berkeley,,Electrical Engineering and Computer Sciences,Computer/data/EECS,,Confirm,2026-06-09 fold EECS division halves into the single EECS department
+Division of Electrical Engineering (EECS),UC Berkeley,,Electrical Engineering and Computer Sciences,Computer/data/EECS,,Confirm,2026-06-09 fold EECS division halves into the single EECS department
+Dean's Office,,,(non-academic unit),Other/unclear,,Confirm,2026-06-09 admin unit (all campuses) - routed to non-academic sentinel hidden by viz builders
+Office of the CEO,UC San Francisco,,(non-academic unit),Other/unclear,,Confirm,2026-06-09 admin unit

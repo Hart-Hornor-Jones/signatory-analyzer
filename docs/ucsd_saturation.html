@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UC San Diego &mdash; Signing Saturation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.27.0/plotly.min.js"></script>
+<style>
+ :root{--ink:#1a2236;--muted:#5b6478;--line:#e3e7f0;--soft:#f4f6fb;}
+ *{box-sizing:border-box}
+ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+   color:var(--ink);max-width:1040px;margin:0 auto;padding:26px 20px 60px;line-height:1.45;background:#fff}
+ h1{font-size:23px;margin:0 0 4px;letter-spacing:-.01em}
+ .sub{color:var(--muted);font-size:14px;margin:0 0 18px;max-width:780px}
+ .toggle{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;margin-bottom:6px}
+ .toggle button{border:0;background:#fff;padding:9px 16px;font-size:13.5px;cursor:pointer;color:var(--muted);font-weight:600}
+ .toggle button.active{background:var(--ink);color:#fff}
+ #chart{width:100%}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;margin:10px 2px 4px;font-size:12.5px;color:var(--muted)}
+ .legend span{display:inline-flex;align-items:center;gap:6px}
+ .dot{width:11px;height:11px;border-radius:3px;display:inline-block}
+ .notes{background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin-top:18px;font-size:12.5px;color:#39425a}
+ .notes b{color:var(--ink)} .notes ul{margin:7px 0 0;padding-left:18px} .notes li{margin:4px 0}
+</style></head>
+<body>
+<h1>UC San Diego &mdash; Open-Letter Signing Saturation</h1>
+<p class="sub">The share of each department's <b>core faculty</b> (Senate ladder + teaching professors + emeriti) who signed the May 2026 open letter. Toggle between individual departments and broad fields.</p>
+<div class="toggle">
+ <button id="b-dept" class="active" onclick="render('dept')">By department</button>
+ <button id="b-class" onclick="render('class')">By school</button>
+</div>
+<div class="legend" id="legend"></div>
+<div id="chart"></div>
+<div class="notes">
+ <b>How to read this.</b> Saturation = signers &divide; core faculty. Hover any bar for exact counts.
+ <ul>
+  <li>Faculty headcounts come from the UC San Diego catalog (academic departments) and School of Biological Sciences section pages, counted by rank.</li>
+  <li><b>School denominators are a full census</b> &mdash; every department in each field is counted, including those with zero signers (History, Literature, Cognitive Science, Anthropology, &hellip;), so the school rates are legitimate.</li>
+  <li>Joint-appointment signers are counted <b>once</b>, in their home (first-named) department, to match the denominators.</li>
+  <li><b>Global Policy &amp; Strategy</b> is measured against its Senate ladder only (11), so its rate runs high.</li>
+  <li>The <b>Biological sciences</b> school denominator is the de-duplicated School umbrella (180); the four section bars overlap in membership.</li>
+  <li><b>Data Science (HDSI)</b> is a cross-appointed institute (shown as a department, excluded from school totals). School-of-Medicine signers fall outside the school measure. Theatre &amp; Dance (0 signers) is omitted from the humanities denominator.</li>
+ </ul>
+</div>
+<script>
+const DATA={"departments":[{"department":"Mathematics","class":"Physical sciences","signers":46,"faculty":99,"saturation":46.5},{"department":"Economics","class":"Social sciences","signers":28,"faculty":59,"saturation":47.5},{"department":"Psychology","class":"Social sciences","signers":3,"faculty":50,"saturation":6.0},{"department":"Political Science","class":"Social sciences","signers":21,"faculty":56,"saturation":37.5},{"department":"Sociology","class":"Social sciences","signers":1,"faculty":38,"saturation":2.6},{"department":"Physics","class":"Physical sciences","signers":27,"faculty":81,"saturation":33.3},{"department":"Data Science (HDSI)","class":"(institute)","signers":14,"faculty":61,"saturation":23.0},{"department":"Management (Rady)","class":"Professional schools","signers":18,"faculty":42,"saturation":42.9},{"department":"Chemistry & Biochemistry","class":"Physical sciences","signers":13,"faculty":102,"saturation":12.7},{"department":"Structural Engineering","class":"Engineering","signers":9,"faculty":29,"saturation":31.0},{"department":"Chemical & Nano Engineering","class":"Engineering","signers":12,"faculty":34,"saturation":35.3},{"department":"Neurobiology","class":"Biological sciences","signers":4,"faculty":42,"saturation":9.5},{"department":"Bioengineering","class":"Engineering","signers":18,"faculty":43,"saturation":41.9},{"department":"Electrical & Computer Engineering","class":"Engineering","signers":23,"faculty":102,"saturation":22.5},{"department":"Computer Science & Engineering","class":"Engineering","signers":18,"faculty":74,"saturation":24.3},{"department":"Cell & Developmental Biology","class":"Biological sciences","signers":18,"faculty":47,"saturation":38.3},{"department":"Ecology, Behavior & Evolution","class":"Biological sciences","signers":1,"faculty":23,"saturation":4.3},{"department":"Mechanical & Aerospace Engineering","class":"Engineering","signers":20,"faculty":84,"saturation":23.8},{"department":"Molecular Biology","class":"Biological sciences","signers":1,"faculty":53,"saturation":1.9},{"department":"Cognitive Science","class":"Social sciences","signers":1,"faculty":131,"saturation":0.8},{"department":"Global Policy & Strategy","class":"Professional schools","signers":8,"faculty":43,"saturation":18.6},{"department":"Scripps Oceanography","class":"Physical sciences","signers":34,"faculty":157,"saturation":21.7},{"department":"Music","class":"Arts & humanities","signers":1,"faculty":43,"saturation":2.3},{"department":"Linguistics","class":"Social sciences","signers":1,"faculty":20,"saturation":5.0}],"classes":[{"class":"Physical sciences","signers":120,"faculty":439,"departments":4,"saturation":27.3},{"class":"Social sciences","signers":55,"faculty":458,"departments":11,"saturation":12.0},{"class":"Professional schools","signers":26,"faculty":85,"departments":2,"saturation":30.6},{"class":"Engineering","signers":100,"faculty":366,"departments":6,"saturation":27.3},{"class":"Biological sciences","signers":24,"faculty":180,"departments":4,"saturation":13.3},{"class":"Arts & humanities","signers":1,"faculty":292,"departments":6,"saturation":0.3}]};
+const COLORS={"Physical sciences":"#2b6cb0","Engineering":"#dd7711","Biological sciences":"#2f9e63",
+ "Social sciences":"#7c5cd0","Arts & humanities":"#d6457f","Professional schools":"#1aa0a0","(institute)":"#98a2b3"};
+document.getElementById('legend').innerHTML=Object.entries(COLORS)
+ .filter(([k])=>k!=="(institute)").map(([k,c])=>`<span><i class="dot" style="background:${c}"></i>${k}</span>`).join('');
+function render(mode){
+ document.getElementById('b-dept').classList.toggle('active',mode==='dept');
+ document.getElementById('b-class').classList.toggle('active',mode==='class');
+ const rows=(mode==='dept'?DATA.departments:DATA.classes).slice().sort((a,b)=>a.saturation-b.saturation);
+ const y=rows.map(r=>mode==='dept'?r.department:r.class), x=rows.map(r=>r.saturation);
+ const color=rows.map(r=>COLORS[r.class]||"#2b6cb0");
+ const cust=rows.map(r=>[r.signers,r.faculty,(mode==='class'?r.departments:r.class)]);
+ const tmpl=mode==='dept'
+   ?'<b>%{y}</b><br>%{customdata[0]} signers / %{customdata[1]} faculty<br><b>%{x:.1f}%</b> saturation<br><i>%{customdata[2]}</i><extra></extra>'
+   :'<b>%{y}</b><br>%{customdata[0]} signers / %{customdata[1]} faculty<br><b>%{x:.1f}%</b> saturation<br>%{customdata[2]} departments (full census)<extra></extra>';
+ Plotly.newPlot('chart',[{type:'bar',orientation:'h',x,y,marker:{color},customdata:cust,
+   text:x.map(v=>v.toFixed(1)+'%'),textposition:'outside',textfont:{size:12},
+   hovertemplate:tmpl,cliponaxis:false}],
+  {height:Math.max(240,rows.length*(mode==='dept'?27:46)+90),
+   margin:{l:mode==='dept'?232:172,r:54,t:10,b:46},
+   xaxis:{title:{text:'Saturation — % of core faculty who signed',standoff:12},ticksuffix:'%',
+     gridcolor:'#eef1f7',zeroline:false,range:[0,Math.max.apply(null,x)*1.13]},
+   yaxis:{automargin:true,tickfont:{size:mode==='dept'?12:13.5}},
+   paper_bgcolor:'rgba(0,0,0

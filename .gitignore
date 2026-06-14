@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+*.bak
+vite.config.js.timestamp-*
+
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+_wtest
+*_broken*/
+.git_broken*/
+.DS_Store
+Thumbs.db

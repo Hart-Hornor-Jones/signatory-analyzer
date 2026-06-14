@@ -1,0 +1,22 @@
+{
+  "name": "uc-signatory-explorer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive explorer for the UC faculty open-letter signatories (campus, discipline, rank, and signing-order over time).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "plotly.js-basic-dist-min": "^2.35.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "playwright-core": "^1.60.0",
+    "vite": "^5.4.2"
+  }
+}

@@ -1,0 +1,14 @@
+raw_label,campus,canonical_department,field_group
+# This file is YOURS. Add one row per label variant you want mapped.
+# It is read with TOP priority and is NEVER auto-generated or overwritten.
+# After editing it, re-run:  python build_data.py   then rebuild + commit.
+#   raw_label            : text exactly as it appears in the table's Dept. column
+#   campus               : optional - leave blank to apply to ALL campuses
+#   canonical_department : the clean name you want displayed
+#   field_group          : optional - blank auto-classifies from the canonical name
+#   field_group must be one of:
+#     Mathematics & statistics | Computer/data/EECS | Engineering | Physical sciences
+#     Biological/life sciences | Medical/health sciences | Economics/business/management
+#     Social sciences | Law/policy/education/professional | Humanities/arts
+Haas School of Business,,Business,Economics/business/management
+GPS,,Global Policy,Law/policy/education/professional
