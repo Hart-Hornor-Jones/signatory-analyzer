@@ -5,6 +5,7 @@ dist/
 *.bak
 vite.config.js.timestamp-*
 
+# housekeeping
 __pycache__/
 *.pyc
 .Rhistory
@@ -12,5 +13,3 @@ __pycache__/
 _wtest
 *_broken*/
 .git_broken*/
-.DS_Store
-Thumbs.db
