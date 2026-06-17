@@ -34,14 +34,20 @@ def main() -> int:
 
     new_total = total(DATA.read_text(encoding="utf-8"))
 
+    # Read the previous committed copy as BYTES and decode utf-8 ourselves.
+    # (subprocess text mode would decode with the Windows locale / cp1252 and crash
+    #  on the UTF-8 content in data.json -- em dashes, accented names, etc.)
     try:
-        old_text = subprocess.run(
+        result = subprocess.run(
             ["git", "show", "HEAD:public/data/data.json"],
-            capture_output=True, text=True, check=True,
-        ).stdout
-        old_total = total(old_text)
-    except Exception:
+            capture_output=True, check=True,
+        )
+        old_total = total(result.stdout.decode("utf-8", errors="replace"))
+    except subprocess.CalledProcessError:
         print(f"  [regression-check] no prior committed data.json; new total = {new_total}")
+        return 0
+    except Exception as e:
+        print(f"  [regression-check] could not read prior total ({e!r}); new total = {new_total}")
         return 0
 
     delta = new_total - old_total
@@ -50,8 +56,8 @@ def main() -> int:
 
     if new_total < old_total:
         print(f"  [regression-check] WARNING: total DROPPED by {old_total - new_total}.")
-        print( "  [regression-check] Likely causes: the scrape failed, a CSV was truncated,")
-        print( "  [regression-check] or you are looking at a stale/duplicate copy. Verify before pushing.")
+        print("  [regression-check] Likely causes: the scrape failed, a CSV was truncated,")
+        print("  [regression-check] or you are looking at a stale/duplicate copy. Verify before pushing.")
         return 3
 
     return 0
