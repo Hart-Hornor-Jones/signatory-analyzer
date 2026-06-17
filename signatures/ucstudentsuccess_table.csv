@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,1513,,
+1,Number of signatories,1515,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -1514,3 +1514,5 @@
 1513,Michael McCullough,Professor,Psychology,UC San Diego
 1514,Somayeh Dodge,Associate Professor,Geography,UC Santa Barbara
 1515,Eran Mukamel,Professor,Cognitive Science,UC San Diego
+1516,Thomas Burke,Assistant Professor,Microbiology and Molecular Genetics,UC Irvine
+1517,Michael Mcclelland,Professor,Microbiology and Molecular Genetics,UC Irvine
