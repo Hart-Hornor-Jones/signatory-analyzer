@@ -23,6 +23,14 @@ if ($LASTEXITCODE -ne 0) { Write-Host "build_data.py failed - see the error abov
 # cross-letter near-misses land in signatures\cross_letter_review.csv;
 # confirmed same-person pairs go in signatures\cross_letter_merges.csv
 
+# Regression guard: print prev -> new signatory total; pause if the count DROPPED.
+# (Makes the true current total visible every run, so a stale copy can't look like a regression.)
+python check_data_regression.py
+if ($LASTEXITCODE -eq 3) {
+    $ans = Read-Host "      ^ signatory total DROPPED vs the last commit. Continue and publish anyway? (y/N)"
+    if ($ans -ne 'y') { Write-Host "Stopping - nothing committed or pushed." -ForegroundColor Red; exit 1 }
+}
+
 if ($Census) {
     Write-Host "1a/4  Rebuilding the faculty census (harvest + signatory re-match)..." -ForegroundColor Cyan
     Push-Location ..
