@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,1515,,
+1,Number of signatories,1522,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -1516,3 +1516,10 @@
 1515,Eran Mukamel,Professor,Cognitive Science,UC San Diego
 1516,Thomas Burke,Assistant Professor,Microbiology and Molecular Genetics,UC Irvine
 1517,Michael McClelland,Professor,Microbiology and Molecular Genetics,UC Irvine
+1518,Yongsheng Shi,Professor,MMG,UC Irvine
+1519,Walter Gekelman,Distinguised Research Professor,Physics,UCLA
+1520,Ming Tan,Professor,"Microbiology & Molecular Genetics, and Medicine",UC Irvine
+1521,Spencer Smith,Professor,ECE,UC Santa Barbara
+1522,Joshua Morgan,Associate Professor,Bioengineering,UC Riverside
+1523,Elena Kokkoni,Assistant Professor,Bioengineering,UC Riverside
+1524,Patrick James Miller,Lecturer,Computer Science and Engineering,UC Riverside
