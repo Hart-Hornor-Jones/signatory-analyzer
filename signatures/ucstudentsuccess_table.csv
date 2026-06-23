@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,1586,,
+1,Number of signatories,1686,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -1581,9 +1581,109 @@
 1580,Brian Christopher Regan,Professor,Physics and Astronomy,UCLA
 1581,Rong Fu,Professor,Atmospheric and Oceanic Sciences,UCLA
 1582,Mayank R Mehta,Professor,Physics,UCLA
-1583,Dale Francis Weeks,"Former Adjunct at the University of Minnesota, Minneapolis, MN",Leadership and Management,UC Berkeley
-1584,Yi Tang,Professor,Chemical Engineering,UCLA
-1585,Albion M Urdank,Emeritus Professor,History,UCLA
-1586,Alapakkam Sampath,Professor,Ophthalmology,UCLA
-1587,Natalia Komarova,Professor,Mathematics,UC San Diego
-1588,Brett T. Lopez,Assistant Professor,Mechanical and Aerospace Engineering,UCLA
+1583,Yi Tang,Professor,Chemical Engineering,UCLA
+1584,Albion M Urdank,Emeritus Professor,History,UCLA
+1585,Alapakkam Sampath,Professor,Ophthalmology,UCLA
+1586,Natalia Komarova,Professor,Mathematics,UC San Diego
+1587,Brett T. Lopez,Assistant Professor,Mechanical and Aerospace Engineering,UCLA
+1588,Felipe Caro,Professor,Management,UCLA
+1589,Alan Saghatelian,Professor,Biological Sciences,UC San Diego
+1590,Abhishek Saha,Associate Professor,Department of Mechanical and Aerospace Engineering,UC San Diego
+1591,Akula Venkatram,Distinguished Professor,Mechanical Engineering,UC Riverside
+1592,Amanda E Guyer,Professor,Human Ecology,UC Davis
+1593,Alvaro Cardenas,Professor,Computer Science and Engineering,UC Santa Cruz
+1594,Andre van der Hoek,Professor,Informatics,UC Irvine
+1595,Andrew J Lucas,Professor,Dept of Mechanical Engineering,UC San Diego
+1596,Bahman Anvari,Professor,Bioengineering,UC Riverside
+1597,Andrew Sharabi,Professor,Radiation Medicine and Applied Sciences,UC San Diego
+1598,Alexis C Komor,Associate Professor,Chemistry and Biochemistry,UC San Diego
+1599,Berk Ustun,Assistant Professor,Data Science,UC San Diego
+1600,Anthony A James,Donald Bren and Distinguished Professor,M&MG and MB&B,UC Irvine
+1601,Amir Zarrinpar,Professor,Biological Sciences,UC San Diego
+1602,Angels Almenar,Assistant Professor,Pediatrics,UC San Diego
+1603,Audrone Lapinaite,Assistant Professor,Biomedical Engineering,UC Irvine
+1604,Amato Evan,Professor,Scripps Institution of Oceanography,UC San Diego
+1605,Anthony J. Tromba,Distinguished Professor,Mathematics,UC Santa Cruz
+1606,Brian Mark Anderson,Assistant Professor,Radiation Medicine and Applied Sciences,UC San Diego
+1607,Anil Tiwari,Clinical Assistant Professor,Anesthesiology,UC Irvine
+1608,Brent Mausbach,Professor,Psychiatry,UC San Diego
+1609,Bryan Shapiro,Assistant Clincal Professor,Psychiatry,UC Irvine
+1610,Adam Martiny,Professor,Earth System Science,UC Irvine
+1611,Carlito B. Lebrilla,Distinguished Professor,Chemistry,UC Davis
+1612,Ashlie Martini,Professor,Mechanical & Aerospace Engineering,UC Merced
+1613,Charles L Perrin,Professor Emeritus,Chemistry,UC San Diego
+1614,Binhai Zheng,Professor,Neurosciences,UC San Diego
+1615,Barry M. Klein,Professor Emeritus,Physics and Astronomy,UC Davis
+1616,Anton Van der Ven,Professor,Materials Department,UC Santa Barbara
+1617,Charlie Brummer,Professor,Plant Sciences,UC Davis
+1618,Barna Saha,Professor,Computer Science & Engineering,UC San Diego
+1619,Alex Guseman,Assistant Professor,Biochemistry and Molecular Biophysics,UC San Diego
+1620,Abraham Lee,Professor,Biomedical Engineering,UC Irvine
+1621,Bwalya Lungu,Associate Professor,Food Science and Technology,UC Davis
+1622,Brian M. Paegel,Professor,Pharmaceutical Sciences,UC Irvine
+1623,Carl Mautner,Associate Professor,Mathematics,UC Riverside
+1624,Calogero D. Presti,Lecturer,Electrical and Computer Engineering,UC San Diego
+1625,Brenda Bloodgood,Associate Professor,Neurobiology,UC San Diego
+1626,Albert F. Bennett,"Dean, Chair, and Professor Emeritus",Biological Sciences,UC Irvine
+1627,Alina Bokovikova,lecturer,Theatre and Dance,UC San Diego
+1628,Amir Kol,Associate Professor,Veterinary Medicine,UC Davis
+1629,Amanda Hale,Post Doc,Microbiology,UC Riverside
+1630,Ansel Hsiao,Associate Professor,Microbiology and Plant Pathology,UC Riverside
+1631,Ali Mohraz,Professor,Chemical and Biomolecular Engineering,UC Irvine
+1632,Bert Semler,Distinguished Professor,Microbiology and Molecular Genetics,UC Irvine
+1633,Boris Vaisband,Assistant Professor,EECS,UC Irvine
+1634,Cetin Kaya Koc,Research Professor,Computer Science,UC Santa Barbara
+1635,Brian Ilfeld,"Professor of Anesthesiology, In Residence",Anesthesiology,UC San Diego
+1636,Babak Shahbaba,Professor,Statistics,UC Irvine
+1637,Anyes Taffard,Professor,Physics & Astronomy,UC Irvine
+1638,Tyler B. Woodell,Associate Professor,Medicine,UC San Diego
+1639,Alessandro Marinoni,Assistant Professor,Mechanical and Aerospace Engineering,UC San Diego
+1640,Charles F. Driscoll,"Professor of Physics, Emeritus",UCSD Physics,UC San Diego
+1641,Anna Leshinskaya,Assistant Professor,Cognitive Sciences,UC Irvine
+1642,Akash Desai,Assistant Professor,Emergency Medicine,UC San Diego
+1643,Alexander Berg,Associate Professor,Computer Science,UC Irvine
+1644,Rudi Berkelhamer,Teaching Professor Emerita,Ecology & Evolutionary Biology,UC Irvine
+1645,Brian Keating,Professor,Physics,UC San Diego
+1646,Armand Kuris,Professor of Zoology,"Ecology, Evolution and Marine Biology",UC Santa Barbara
+1647,Carrie Finno,Professor,Department of Population Health and Reproduction,UC Davis
+1648,Alex Frano,Associate Professor,Physics,UC San Diego
+1649,Charley Coffey,Professor,Head & Neck Surgery,UC San Diego
+1650,Assuntina Sacco,Professor,Medicine,UC San Diego
+1651,Carolyn Kurle,Professor,"Ecology, Behavior, Evolution",UC San Diego
+1652,Arkady Komsoukaniants,Assistant Professor,School of medicine,UC San Diego
+1653,Brandon Coya,Academic Coordinator/Lecturer,Mathematics,UC Riverside
+1654,Brian Collier,Associate Professor,Mathematics,UC Riverside
+1655,Alison Butler,Professor,Chemistry & Biochemistry,UC Santa Barbara
+1656,Charlotte Sadler,Associate Professor,Emergency Medicine,UC San Diego
+1657,Can Le,Associate Professor,Statistics,UC Davis
+1658,Andrew Wetzel,Professor,Physics & Astronomy,UC Davis
+1659,Simerjot Kaur Jassal,Professor,Department of Medicine,UC San Diego
+1660,Robert Harley,Professor,Civil & Environmental Engineering,UC Berkeley
+1661,Cesunica Ivey,Associate Professor,Civil and Environmental Engineering,UC Berkeley
+1662,Bonnie Nardi,Professor,Informatics,UC Irvine
+1663,Arnold Seto,Associate Clinical Professor,Medicine,UC Irvine
+1664,Asuka Eguchi,Assistant Professor,Physiology and Biophysics,UC Irvine
+1665,Auston Marm Kilpatrick,Professor,Ecology and Evolutionary Biology,UC Santa Cruz
+1666,Alan Chew,Lecturer,Asronomy,UC Berkeley
+1667,Aaron Barth,Professor,Physics and Astronomy,UC Irvine
+1668,Alexander Raikhel,Distinguished Professor Emeritus,Entomology,UC Riverside
+1669,Alberto Krone-Martins,Lecturer,Informatics,UC Irvine
+1670,CHENHAO JIN,Assistant Professor,Physics,UC Santa Barbara
+1671,Ali Farkhondehpour,Associate Professor,Medicine,UC San Diego
+1672,Ananda Goldrath,Professor,Molecular Biology,UC San Diego
+1673,John Christopher Anderson,Associate Professor,Bioengineering,UC Berkeley
+1674,Ben Hardekopf,Professor,Computer Science,UC Santa Barbara
+1675,Alexander Veidenbaum,Professor,Computer Science,UC Irvine
+1676,Dan Klein,Professor,Electrical Engineering and Computer Sciences,UC Berkeley
+1677,Robert D. Kiss,Lecturer,Chemical & Biomolecular Engineering,UC Berkeley
+1678,Bruce Margon,Professor Emeritus,Astronomy and Astrophysics,UC Santa Cruz
+1679,Alejandro D. Meruelo,Assistant Professor,Psychiatry,UC San Diego
+1680,Anh-Vu Pham,Professor,Electrical and Computer Engineering,UC Davis
+1681,Norman Alan Abrahamson,Adjunct Professor,Civil and Environmental Engineering,UC Berkeley
+1682,Jason Ryder,Adjunct Professor,Chemical & Biomolecular Engineering,UC Berkeley
+1683,Adrian Jinich,Assistant Professor,Biochemistry and Molecular Biophysics,UC San Diego
+1684,Karen S Christensen,Professsor Emerita,City and Regional Planning,UC Berkeley
+1685,Tomer Altman,Lecturer,College of Chemistry,UC Berkeley
+1686,Aimee Edinger,Professor,Developmental and Cell Biology,UC Irvine
+1687,Ameae Walker,Professor,Biomedical Sciences,UC Riverside
+1688,B Larry Li,Professor,Botany and Plant Sciences,UC Riverside
