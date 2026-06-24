@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,1714,,
+1,Number of signatories,1785,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -1696,22 +1696,93 @@
 1695,Brian Murphy,Professor,"Pathology, Microbiology and Immunology",UC Davis
 1696,Ari Ezra Waldman,Professor of Law,School of Law,UC Irvine
 1697,Shmuel S. Oren,Shmuel Oren Professor of the Graduate School,Industrial Engineering and Operations research,UC Berkeley
-1698,Kristofer Bouchard,Assistant Professor,Neuroscience,UC Berkeley
-1699,Brian Murphy,Professor,"Pathology, Microbiology and Immunology",UC Davis
-1700,Ari Ezra Waldman,Professor of Law,School of Law,UC Irvine
-1701,Richard Huntsinger,Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
-1702,Bin Nan,Professor,Statistics,UC Irvine
-1703,"Bryan Clary, MD, MBA",Professor,Surgery,UC San Diego
-1704,Amy Pasquinelli,Professor,Molecular Biology,UC San Diego
-1705,Sabine Cudney-Valenzuela,Postdoctoral Scholar,Integrative Biology,UC Berkeley
-1706,Brian Christian,Postdoctoral Scholar,EECS,UC Berkeley
-1707,Chinya Ravishankar,Professor Emeritus,Computer Science & Engineering,UC Riverside
-1708,Van P Carey,Distinguished Professor,Mechanical Engineering,UC Berkeley
-1709,Matthew B. Francis,Professor,Chemistry,UC Berkeley
-1710,Michelle C Douskey,Senior Lecturer,Chemistry,UC Berkeley
-1711,Arthur Kavanaugh,Professor,Medicine,UC San Diego
-1712,Nilopa Shah,Lecturer,Economics,UC Berkeley
-1713,Asaf Ferber,Associate Professor,Mathematics,UC Irvine
-1714,Ethan Lake,Assistant Professor,Physics,UC Berkeley
-1715,George A. Brooks,Distinguished Professor of Integrative Biology,Integrative Biology,UC Berkeley
-1716,Alex Ayzner,Professor,Chemistry and Biochemistry,UC Santa Cruz
+1698,Richard Huntsinger,Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
+1699,Bin Nan,Professor,Statistics,UC Irvine
+1700,"Bryan Clary, MD, MBA",Professor,Surgery,UC San Diego
+1701,Amy Pasquinelli,Professor,Molecular Biology,UC San Diego
+1702,Sabine Cudney-Valenzuela,Postdoctoral Scholar,Integrative Biology,UC Berkeley
+1703,Brian Christian,Postdoctoral Scholar,EECS,UC Berkeley
+1704,Chinya Ravishankar,Professor Emeritus,Computer Science & Engineering,UC Riverside
+1705,Van P Carey,Distinguished Professor,Mechanical Engineering,UC Berkeley
+1706,Matthew B. Francis,Professor,Chemistry,UC Berkeley
+1707,Michelle C Douskey,Senior Lecturer,Chemistry,UC Berkeley
+1708,Arthur Kavanaugh,Professor,Medicine,UC San Diego
+1709,Nilopa Shah,Lecturer,Economics,UC Berkeley
+1710,Asaf Ferber,Associate Professor,Mathematics,UC Irvine
+1711,Ethan Lake,Assistant Professor,Physics,UC Berkeley
+1712,George A. Brooks,Distinguished Professor of Integrative Biology,Integrative Biology,UC Berkeley
+1713,Alex Ayzner,Professor,Chemistry and Biochemistry,UC Santa Cruz
+1714,Therese Markow,Professor Emeritus,Cell Developmental Biology,UC San Diego
+1715,Subhojit Roy,Professor,Pathology,UC San Diego
+1716,Vineet Bafna,Professor,Computer Science & Engineering,UC San Diego
+1717,George Johnson,Professor Emeritus,Mechanical Engineering,UC Berkeley
+1718,Tracy Handel,Professor,SSPPS,UC San Diego
+1719,Thomas A. Powell,Lecturer,Computer Science & Engineering,UC San Diego
+1720,Thorne Lay,Distinguished Professor Emeritus,Earth and Planetary Sciences,UC Santa Cruz
+1721,Thomas Martinez,Assistant Professor,Pharmaceutical Sciences,UC Irvine
+1722,Weifeng Gu,Associate Professor,MCSB,UC Riverside
+1723,William Neary,Assistant Professor,Chemistry,UC Riverside
+1724,Tom Alsaigh,Associate Professor,Surgery,UC San Diego
+1725,Yehua Li,Professor and Chair,Statistics,UC Riverside
+1726,Tom Buckley,Professor,Department of Plant Science,UC Davis
+1727,Ulrich Muller,Professor,Chemistry & Biochemistry,UC San Diego
+1728,Thomas F Schilling,Professor,Developmental and Cell Biology,UC Irvine
+1729,Tingting Xiang,Assistant Professor,Bioengineering,UC Riverside
+1730,Yatish Turakhia,Assistant Professor,Electrical and Computer Engineering,UC San Diego
+1731,Yadong Yin,Professor,Chemistry,UC Riverside
+1732,Valerie Eviner,Professor,Plant Sciences,UC Davis
+1733,SungWoo Nam,Professor,Mechanical and Aerospace Engineering,UC Irvine
+1734,Stephanie Cherqui,Professor,Pediatrics,UC San Diego
+1735,Yiwei Wang,Assistant Professor,Mathematics,UC Riverside
+1736,Timothy Dresselhaus,Clinical Professor Emeritus,Medicine,UC San Diego
+1737,Yaofa Li,Assistant Professor,Mechanical Engineering,UC Riverside
+1738,Zhaodan Kong,Associate Professor,Mechanical and Aerospace Engineering,UC Davis
+1739,Yelena Frid,Lecturer,Computer Science,UC Davis
+1740,Xianjin Zhou,Associate Professor,Psychiatry,UC San Diego
+1741,Stephanie Dulawa,Professor,Psychiatry,UC San Diego
+1742,Vyjayanthi Chari,Distinguished Professor,Mathematics,UC Riverside
+1743,Yonggyu Lee,Lecturer,Mathematics,UC Davis
+1744,Timothy Close,Professor,Botany & Plant Sciences,UC Riverside
+1745,William A. Sirignano,Distinguished Professor,Mechanical and Aerospace Engineering,UC Irvine
+1746,Wenzhong Yan,Assistant Professor,Mechanical and Engineering Engineering,UC Davis
+1747,Caroline Silva Rocha Costa,Lecturer,Department of Physics,UC Berkeley
+1748,Tianchen Qian,Assistant Professor,Statistics,UC Irvine
+1749,Timothy Downing,Associate Professor,Biomedical Engineering,UC Irvine
+1750,Xuecai Ge,Associate Professor,Biomedical Sciences,UC Riverside
+1751,Vivek Sharma,Distinguished Professor,Physics,UC San Diego
+1752,Zhe Fei,Assistant Professor,Statistics,UC Riverside
+1753,Vu Q. Nguyen,Assistant Professor,Molecular Biology,UC San Diego
+1754,Susanne Stemmer,Professor,Materials Department,UC Santa Barbara
+1755,Xiaoyu Shi,Associate Professor,Developmental and Cell Biology,UC Irvine
+1756,Wenyuan Fan,Professor,Scripps Institution of Oceanography,UC San Diego
+1757,Xian Shi,Assistant Professor,Mechanical and Aerospace Engineering,UC Irvine
+1758,Ayako Yasuda,Professor,Graduate School of Management,UC Davis
+1759,Tara Hutchinson,Professor,Structural Engineering,UC San Diego
+1760,Walid Najjar,Professor Emeritus,Computer Science and Engineering,UC Riverside
+1761,Tom Alsaigh,Associate Professor,Surgery,UC San Diego
+1762,Xiao Luo,Associate Professor,Physics,UC Santa Barbara
+1763,Stephen Morris,Professor Emeritus,Mechanical Engineering,UC Berkeley
+1764,Wei Vivian Li,Associate Professor,Statistics,UC Riverside
+1765,Dimitri Papamoschou,Professor,Mechanical and Aerospace Engineering,UC Irvine
+1766,Vladimir Kefalov,Professor,Ophthalmology and Visual Sciences,UC Irvine
+1767,Cindy Gustafson-Brown,Senior Continuing Lecturer,Biology,UC San Diego
+1768,Frances Sladek,Professor,Molecular Cell and Systems Biology,UC Riverside
+1769,Titania Juang,Associate Professor,Radiation Medicine and Applied Sciences,UC San Diego
+1770,Stephen C. Hart,"Recall faculty, Professor Emeritus",Life and Environmental Sciences,UC Merced
+1771,William E. Kastenberg,Professor Emeritus,Nuclear Engineering,UC Berkeley
+1772,Tzu-Chien Hsueh,Associate Professor,Electrical & Computer Engineering,UC San Diego
+1773,Steven G. Louie,Professor of the Graduate School,Physics,UC Berkeley
+1774,Yue Jane Wu,Assistant Professor,Chemistry,UC Riverside
+1775,Wengui Yu,Professor of Clinical Neurology,Neurology,UC Irvine
+1776,Zhaowei Liu,Professor,Electrical and Computer Engineering,UC San Diego
+1777,Sung-Mo (Steve) Kang,"Distinguished Professor Emeritus, Research Professor",Department of Electrical and Computer Engineering,"University of California, Santa Cruz"
+1778,Yang Xu,Professor in Emeritus,Biology,UC San Diego
+1779,Valerie Cortez,Assistant Professor,"Molecular, Cell & Developmental Biology",UC Santa Cruz
+1780,Paul Grigas,Associate Professor,Industrial Engineering and Operations Research,UC Berkeley
+1781,Suzi Hong,Professor,Herbert Wertheim School of Public Health,UC San Diego
+1782,Whitney Duim,Assistant Professor of Teaching,Chemistry,UC Davis
+1783,Andrew Alameda,Lecturer,Mathematics,UC Davis
+1784,Ronnie Spitzer,Lecturer,Physics,UC Berkeley
+1785,Weizi Li,Assistant Professor of Teaching,Computer Science and Engineering,UC Riverside
+1786,Wesley Johnson,Distinguished Professor Emeritus of Statistics,Statistics,UC Irvine
+1787,Yongtao Cui,Associate Professor,Physics and Astronomy,UC Riverside
