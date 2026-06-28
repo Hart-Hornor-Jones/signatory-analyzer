@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,2089,,
+1,Number of signatories,2094,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -2090,3 +2090,8 @@
 2089,Victoria Coleman,Professor,EECS,UC Berkeley
 2090,Martin Scharlemann,Professor Emeritus,Mathematics,UC Santa Barbara
 2091,Mary Patterson,Associate Clinical Professor,Pediatrics,UC San Diego
+2092,Venkatesan Sundaresan,Distinguished Professor,Plant Biology and Plant Sciences,UC Davis
+2093,Jerold Chun,Adjunct Professor,Pharmacology and Neuroscience,UC San Diego
+2094,Geeta Gupta MD,Professor,Department of Medicine,UC Irvine
+2095,Jun Li,Professor,Statistics,UC Riverside
+2096,Kara E McCloskey,Professor and Chair,Chemical and Materials Engineering,UC Merced
