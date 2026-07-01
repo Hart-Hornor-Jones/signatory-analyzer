@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories:,834,,
+1,Number of signatories:,889,,
 2,Name,Title,Dept.,Campus
 3,Gabriel Rossman,Professor,Sociology,UC Los Angeles
 4,Marc Muendler,Chair,Economics,UC San Diego
@@ -646,192 +646,247 @@
 645,Felicity Nussbaum,Distinguished Research Professor (Emerita),English,UCLA
 646,John Carter,Lecturer,Spanish and Portuguese,UCLA
 647,Susan Perry,Professor,Anthropology,UCLA
-648,Lucrecia Santibanez,Professor,Education,UCLA
-649,Velibor Misic,Associate Professor,Management,UCLA
-650,Noreen Webb,Distinguished Research Professor,Education,UCLA
-651,Michael Lens,Professor and Chair,Urban Planning,UCLA
-652,Julia Payson,Associate Professor,Political Science,UCLA
-653,Allen F. Roberts,Distinguished Professor Emeritus,World Arts and Cultures / Dance,UCLA
-654,Margaret E. Peters,Professor and Vice Chair,Political Science,UCLA
-655,Sean Walsh,Associate Professor,Philosophy,UCLA
-656,Amro Hamdoun,Professor,SIO,UC San Diego
-657,Anne Mellor,Distinguished Professor,English,UCLA
-658,Carlos Dobkin,Professor,Economics,UC Santa Cruz
-659,Ronald Vroon,Professor,"Slavic, East European & Eurasian Languages & Cultures",UCLA
-660,Douglas Lichtman,Professor,Law,UCLA
-661,Joseph Bristow,Distinguished Professor,English,UCLA
-662,Victoria Marks,Professor,World Arts and Cultures/Dance,UCLA
-663,Meredith Phillips,Professor,Public Policy,UCLA
-664,Michael L Ross,Professor,Political Science,UCLA
-665,William Summerhill,Professor,History,UCLA
-666,Janelle DeWitt,Associate Adjunct Professor,Philosophy,UCLA
-667,Ronald J Mellor,Distinguished Professor Emeritus,History,UCLA
-668,Terry Taylor,Professor,Haas School of Business,UC Berkeley
-669,Geoffrey E. Braswell,Professor,Anthropology,UC San Diego
-670,Greg Siegel,Associate Professor,Film and Media Studies,UC Santa Barbara
-671,David Kim,Professor,European Languages and Transcultural Studies,UCLA
-672,Robert Morstein-Marx,Professor,Classics,UC Santa Barbara
-673,Jamal Williams,Assistant Professor,Psychology,UC Santa Cruz
-674,Mark Garmaise,Professor,Anderson School of Management,UCLA
-675,Han Du,Associate Professor,Psychology,UCLA
-676,Barney Hartman-Glaser,Associate Professor,Anderson School of Management,UCLA
-677,Deanna Shemek,Professor Emerita,European Languages & Studies,UC Irvine
-678,Bryant Kirkland,Associate Professor,Classics,UCLA
-679,Amelia Glaser,Professor,Literature,UC San Diego
-680,Amanda E Guyer,Professor,Human Ecology,UC Davis
-681,Patrick Bergemann,Associate Professor,Merage School of Business,UC Irvine
-682,Brandon J Kinne,Professor,Political Science,UC Davis
-683,Carlton Scott,Professor Emeritus,Paul Merage School of Business,UC Irvine
-684,Pamela Hieronymi,Professor,Philosophy,UCLA
-685,Assuntina Sacco,Professor,Medicine,UC San Diego
-686,Alan Olmstead,Distinguished Professor Emeritus,Economics,UC Davis
-687,Carlos H. Waisman,Emeritus Professor,Sociology,UC San Diego
-688,Stephen J. Collier,Professor,City and Regional Planning,UC Berkeley
-689,Kent Lightfoot,Professor,Anthropology,UC Berkeley
-690,Ari Koslow,Assistant Professor,Philosophy,UC Irvine
-691,Tony Albano,Professor,School of Education,UC Davis
-692,David C Wiese,Continuing Lecturer,College Writing Programs,UC Berkeley
-693,Galen Cranz,Professor of the Graduate School,Architecture,UC Berkeley
-694,Anna K Kuhn,Professor Emerita,"Gender, Sexuality, Women's Studies",UC Davis
-695,Amy Alexander,Professor,"Visual Arts, Computing in the Arts",UC San Diego
-696,Cathy Moran,Senior Continuing Lecturer,Rady School of Management,UC San Diego
-697,Liv Hoversten,Assistant Professor,Psychology,UC Santa Cruz
-698,"Travis L. Seymour, PhD",Professor,Psychology,UC Santa Cruz
-699,Cheryl Maxson,Professor emerita,"Criminology, Law & Society",UC Irvine
-700,Cailin O'Connor,Chancellor's Professor,Logic and Philosophy of Science,UC Irvine
-701,Carroll Seron,"Professor, Emerita","Criminology, Law & Society",UC Irvine
-702,Hsinyu Lin,Lecturer,EALC,UC Berkeley
-703,Damien Donnelly,Continuing Lecturer,East Asian Languages and Cultures,UC Berkeley
-704,Carole Joffe,Professor Emerita,Sociology,UC Davis
-705,Matthew J. Parker,Lecturer,College Writing Programs,UC Berkeley
-706,Hinrich C. Seeba,Professor Emeritus,German,UC Berkeley
-707,Benjamin Sullivan,Visiting Assistant Professor,History,UC Riverside
-708,Fabio Rambelli,Professor,Religious Studies,UC Santa Barbara
-709,Tijana Petrovic,Lecturer,Film and Media,UC Berkeley
-710,Andrew Scull,Distinguished Research Professor,Sociology,UC San Diego
-711,Stephen M. Maurer,Adj. Em. Professor,Goldman School of Public Policy,UC Berkeley
-712,Ari Ezra Waldman,Professor of Law,School of Law,UC Irvine
-713,Bruce Stone,Continuing Lecturer,Writing Programs,UCLA
-714,Richard Huntsinger,Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
-715,Elizabeth Allen,Professor,English,UC Irvine
-716,Bruno Meyerhof Salama,Continuing Lecturer,Legal Studies,UC Berkeley
-717,Eric Rakowski,Professor Emeritus,Law,UC Berkeley
-718,Gregory LaBlanc,Lecturer/ Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
-719,Mark Y. Rosenberg,Lecturer,"Political Science, Computational Social Science",UC Berkeley
-720,Brian Snyder,Clinical Professor,Emergency Medicine,UC San Diego
-721,Nilopa Shah,Lecturer,Economics,UC Berkeley
-722,Sheldon Rothblatt,Professor Emeritus,History,UC Berkeley
-723,Robert S Taylor,Professor,Political Science,UC Davis
-724,Giuliana Perco,Continuing Lecturer,Italian Studies,UC Berkeley
-725,John T Scott,Distinguished Professor,Political Science,UC Davis
-726,David Johnson,Professor,History,UC Berkeley
-727,Steven Brunner,Continuing Lecturer,Communication,UC Davis
-728,Tam Nomoto Schumann,Adjunct,Law,UC Irvine
-729,Vikram David Amar,Dykstra Endowed Chair and Professor of Law,School of Law,UC Davis
-730,Yenna Wu,Professor,Comparative Literature and Languages,UC Riverside
-731,William Davies King,Professor Emeritus,Theater and Dance,UC Santa Barbara
-732,Todd Mirell,Lecturer,Graduate School of Management,UC Davis
-733,Robert D Fannion,Lecturer,Political Economy,UC Berkeley
-734,Virginia Parks,Professor,Urban Planning,UC Irvine
-735,Jean Ahn,Senior Lecturer,Music,UC Berkeley
-736,Mark A. Peterson,"Professor of Public Policy, Political Science, Health Policy & Management, and Law",Public Policy,UCLA
-737,Ayako Yasuda,Professor,Graduate School of Management,UC Davis
-738,Yutian Tan,Continuing Lecturer,East Asian Languages and Cultures,UC Davis
-739,William Thompson,Professor Emeritus,"Criminology, Law & Society",UC Irvine
-740,Erik Engstrom,Professor,Political Science,UC Davis
-741,Victoria Petrovich,Professor,Theatre & Dance,UC San Diego
-742,Timothy Crockett,Continuing Lecturer,Philosophy,UC Berkeley
-743,Vidyanand Choudhary,Professor,Merage School of Business,UC Irvine
-744,Thomas E. Levy,Distinguished Professor,Qualcomm Institute,UC San Diego
-745,Fredrich Kahrl,Lecturer,Goldman School of Public Policy,UC Berkeley
-746,Ben Brinner,Professor,Music,UC Berkeley
-747,Lauren Peritz,Associate Professor,Political Science,UC Davis
-748,Amy Lerner,Associate Professor,Urban Studies and Planning,UC San Diego
-749,Zheng Sun,Professor,Paul Merage School of Business,UC Irvine
-750,David O. Brink,"Distinguished Professor, Valtz Family Chair in Philosophy",Philosophy,UC San Diego
-751,Amanda Geller,Associate Professor,"Criminology, Law and Society",UC Irvine
-752,Ashutosh Bhagwat,Distinguished Professor,Law,UC Davis
-753,Xin Xie,Assistant Professor,Language Science,UC Irvine
-754,Anastasia Berg,Assistant Professor,Philosophy,UC Irvine
-755,William Sieber,Clinical Profesor,Family Medicine,UC San Diego
-756,William J. Ashby,Professor Emeritus,French & Italian,UC Santa Barbara
-757,David Funder,"Distinguished Professor, Emeritus",Psychology,UC Riverside
-758,Bryan Donaldson,Professor,Languages and Applied Linguistics,UC Santa Cruz
-759,Frederick M. Dolan,Professor Emeritus,Rhetoric,UC Berkeley
-760,Alexandra Hill,Assistant Professor,Agricultural and Resource Economics,UC Berkeley
-761,Alan Simmons,Professor,Psychiatry,UC San Diego
-762,George Gutman,Professor Emeritus,Microbiology and Molecular Genetics,UC Irvine
-763,guillermo algaze,professor,anthropology,UC San Diego
-764,Perry Link,Distinguished Professor emeritus,Comparative Literature,UC Riverside
-765,Duncan Pritchard,Distinguished Professor,Philosophy,UC Irvine
-766,Anne Walthall,Professor emerita,History,UC Irvine
-767,Stephen Antonoplis,Assistant Professor,Psychology,UC Riverside
-768,Gerardo Perez Cavazos,Associate Professor,Rady School of Management,UC San Diego
-769,Erin Hill,Assistant Professor,Communicatino,UC San Diego
-770,Dirk Bartsch,Professor,Ophthalmology,UC San Diego
-771,Marco Gonzalez-Navarro,Associate Professor,Agricultural and Resource Economics,UC Berkeley
-772,Clayton Critcher,Professor,Haas School of Business,UC Berkeley
-773,Steven Gross,Professor Emeritus,Music,UC Santa Barbara
-774,Edward Watts,Vassiliadis Endowed Chair and Distinguished Professor,History,UC San Diego
-775,Rory O'Connell,Assistant Professor of Teaching,Philosophy,UC Irvine
-776,Vincent P. Crawford,Research Professor,Economics,UC San Diego
-777,David Serlin,Professor,Communication,UC San Diego
-778,Victoria Cross,Professor of Teaching,Psychology,UC Davis
-779,Denis Shishkin,Assistant Professor,Economics,UC San Diego
-780,Elaine C Tennant,Professor Emerita,German,UC Berkeley
-781,Greg McClure,Senior Continuing Lecturer,English,UC Irvine
-782,Bradley Queen,Associate Prof. of Teaching,English,UC Irvine
-783,Hemant Bhargava,"Distinguished Professor, Jerome and Elsie Suran Chair in Technology Management Associate Dean for Academic Affairs",Graduate School of Management,UC Davis
-784,Albert Russell Ascoli,Distinguished Professor Emeritus,Italian Studies,UC Berkeley
-785,Thomas C Leonard,Professor Emeritus,Graduate School of Journalism,UC Berkeley
-786,Finn Brunton,Professor,Science and Technology Studies / Cinema and Digital Media,UC Davis
-787,Jaimie Baron,Lecturer,Film and Media,UC Berkeley
-788,Ben Highton,Professor,Political Science,UC Davis
-789,"Eric M. Liederman, MD, MPH",Lecturer,Graduate School of Management,UC Davis
-790,Gary D. Libecap,"Distinguished Professor, Emeritus","Economics, Bren School of Environmental Science and Management",UC Santa Barbara
-791,Dehua Wang,Clinical associate professor,Pathology,UC San Diego
-792,Linda Garro,Professor,Anthropology,UCLA
-793,Garey Ramey,Professor Emeritus,Economics,UC San Diego
-794,Angeli Patel,Lecturer and Executive Director,Law,UC Berkeley
-795,Amanda L. Tyler,Professor of Law,Law,UC Berkeley
-796,Christina Lin,Lecturer,Architecture,UC Berkeley
-797,Thomas C Cesario,Professor Emeritus,Medicine,UC Irvine
-798,David Michael,Professor of Practice,School of Global Policy and Strategy,UC San Diego
-799,Jody Enders,Distinguished Professor Emerita,French and Italian,UC Santa Barbara
-800,Juan F. Tellez,Associate Prfoessor,Political Science,UC Davis
-801,Joseph P Pecore,Lecturer,Business,UC San Diego
-802,Jessica D'Elena-Tweed,Assistant Professor of Teaching,Visual Arts Department,UC San Diego
-803,Paul Terrell,Lecturer and Academic Adminitrator,Social Welfare,UC Berkeley
-804,Joline Chen,Health Sciences Professor,Medicine,UC Irvine
-805,Todd A. Henry,"Professor (as of July 1, 2026)",History,UC San Diego
-806,Ivan Jeliazkov,Associate Professor,Economics,UC Irvine
-807,James Kulik,Professor Emeritus,Psychology,UC San Diego
-808,Jonathon Paden,Lecturer,Visual arts,UC San Diego
-809,Katherine Ritchie,Associate Professor,Philosophy,UC Irvine
-810,Maki Takata,Lecturer,East Asian Languages and Cultures,UC Berkeley
-811,Jonathan Elkus,Lecturer Emeritus,Music,UC Davis
-812,Alan Brownstein,Distinguished Professor emeritus,School of Law,UC Davis
-813,Katherine Mandeville,Associate clinical professor,"Health sciences center, school of medicine",UC San Diego
-814,Jeff Tirshfield,Continuing Lecturer,Sociology,UC San Diego
-815,Kavan Hazeli,Professor,Mechanical Engineering,UC Riverside
-816,Joanne Zinger,Professor of Teaching,Psychology,UC Irvine
-817,Lucille Chia,Professor emerita,History,UC Riverside
-818,Klaus Nehring,Professor Emeritus,Economics,UC Davis
-819,Gabriella Montinola,Professor,Political Science,UC Davis
-820,Mark Fedyk,Professor,Internal Medicine,UC Davis
-821,Michelle Lou,Associate Professor,Music,UC San Diego
-822,Mark Rose,Research Professor,English,UC Santa Barbara
-823,Jordan Crandall,Professor,Visual Arts,UC San Diego
-824,Mary Gauvain,Distinguished Professor Emerita,Psychology,UC Riverside
-825,Kerry Vandell,Professor,Merage School of Business,UC Irvine
-826,Anthony Macias,Professor,Ethnic Studies,UC Riverside
-827,Robert Perez,Associate Professor,Ethnic Studies,UC Riverside
-828,Piotr Winkielman,Professor,Psychology,UC San Diego
-829,Mary Patterson,Associate Clinical Professor,Pediatrics,UC San Diego
-830,Daniel Fessler,Professor,Anthropology,UCLA
-831,Kayleigh Perkov,Assistant Professor,Science and Technology Studies,UC Davis
-832,Colin Milburn,Distinguished Professor,English / Science and Technology Studies / Cinema and Digital Media,UC Davis
-833,Hyemi Kang,Lecturer,Design,UC Davis
-834,Henrik Soederstroem,Lecturer,Visual Arts,UC San Diego
-835,Eric Steiner,Continuing Lecturer,Psychology,UC San Diego
-836,Alexandra Maryanski-Turner,Professor of the Graduate Division,Sociology,UC Riverside
+648,Velibor Misic,Associate Professor,Management,UCLA
+649,Noreen Webb,Distinguished Research Professor,Education,UCLA
+650,Michael Lens,Professor and Chair,Urban Planning,UCLA
+651,Julia Payson,Associate Professor,Political Science,UCLA
+652,Allen F. Roberts,Distinguished Professor Emeritus,World Arts and Cultures / Dance,UCLA
+653,Margaret E. Peters,Professor and Vice Chair,Political Science,UCLA
+654,Sean Walsh,Associate Professor,Philosophy,UCLA
+655,Amro Hamdoun,Professor,SIO,UC San Diego
+656,Anne Mellor,Distinguished Professor,English,UCLA
+657,Carlos Dobkin,Professor,Economics,UC Santa Cruz
+658,Ronald Vroon,Professor,"Slavic, East European & Eurasian Languages & Cultures",UCLA
+659,Douglas Lichtman,Professor,Law,UCLA
+660,Joseph Bristow,Distinguished Professor,English,UCLA
+661,Victoria Marks,Professor,World Arts and Cultures/Dance,UCLA
+662,Meredith Phillips,Professor,Public Policy,UCLA
+663,Michael L Ross,Professor,Political Science,UCLA
+664,William Summerhill,Professor,History,UCLA
+665,Janelle DeWitt,Associate Adjunct Professor,Philosophy,UCLA
+666,Ronald J Mellor,Distinguished Professor Emeritus,History,UCLA
+667,Terry Taylor,Professor,Haas School of Business,UC Berkeley
+668,Geoffrey E. Braswell,Professor,Anthropology,UC San Diego
+669,Greg Siegel,Associate Professor,Film and Media Studies,UC Santa Barbara
+670,David Kim,Professor,European Languages and Transcultural Studies,UCLA
+671,Robert Morstein-Marx,Professor,Classics,UC Santa Barbara
+672,Jamal Williams,Assistant Professor,Psychology,UC Santa Cruz
+673,Mark Garmaise,Professor,Anderson School of Management,UCLA
+674,Han Du,Associate Professor,Psychology,UCLA
+675,Barney Hartman-Glaser,Associate Professor,Anderson School of Management,UCLA
+676,Deanna Shemek,Professor Emerita,European Languages & Studies,UC Irvine
+677,Bryant Kirkland,Associate Professor,Classics,UCLA
+678,Amelia Glaser,Professor,Literature,UC San Diego
+679,Amanda E Guyer,Professor,Human Ecology,UC Davis
+680,Patrick Bergemann,Associate Professor,Merage School of Business,UC Irvine
+681,Brandon J Kinne,Professor,Political Science,UC Davis
+682,Carlton Scott,Professor Emeritus,Paul Merage School of Business,UC Irvine
+683,Pamela Hieronymi,Professor,Philosophy,UCLA
+684,Assuntina Sacco,Professor,Medicine,UC San Diego
+685,Alan Olmstead,Distinguished Professor Emeritus,Economics,UC Davis
+686,Carlos H. Waisman,Emeritus Professor,Sociology,UC San Diego
+687,Stephen J. Collier,Professor,City and Regional Planning,UC Berkeley
+688,Kent Lightfoot,Professor,Anthropology,UC Berkeley
+689,Ari Koslow,Assistant Professor,Philosophy,UC Irvine
+690,Tony Albano,Professor,School of Education,UC Davis
+691,David C Wiese,Continuing Lecturer,College Writing Programs,UC Berkeley
+692,Galen Cranz,Professor of the Graduate School,Architecture,UC Berkeley
+693,Anna K Kuhn,Professor Emerita,"Gender, Sexuality, Women's Studies",UC Davis
+694,Amy Alexander,Professor,"Visual Arts, Computing in the Arts",UC San Diego
+695,Cathy Moran,Senior Continuing Lecturer,Rady School of Management,UC San Diego
+696,Liv Hoversten,Assistant Professor,Psychology,UC Santa Cruz
+697,"Travis L. Seymour, PhD",Professor,Psychology,UC Santa Cruz
+698,Cheryl Maxson,Professor emerita,"Criminology, Law & Society",UC Irvine
+699,Cailin O'Connor,Chancellor's Professor,Logic and Philosophy of Science,UC Irvine
+700,Carroll Seron,"Professor, Emerita","Criminology, Law & Society",UC Irvine
+701,Hsinyu Lin,Lecturer,EALC,UC Berkeley
+702,Damien Donnelly,Continuing Lecturer,East Asian Languages and Cultures,UC Berkeley
+703,Carole Joffe,Professor Emerita,Sociology,UC Davis
+704,Matthew J. Parker,Lecturer,College Writing Programs,UC Berkeley
+705,Hinrich C. Seeba,Professor Emeritus,German,UC Berkeley
+706,Benjamin Sullivan,Visiting Assistant Professor,History,UC Riverside
+707,Fabio Rambelli,Professor,Religious Studies,UC Santa Barbara
+708,Tijana Petrovic,Lecturer,Film and Media,UC Berkeley
+709,Andrew Scull,Distinguished Research Professor,Sociology,UC San Diego
+710,Stephen M. Maurer,Adj. Em. Professor,Goldman School of Public Policy,UC Berkeley
+711,Ari Ezra Waldman,Professor of Law,School of Law,UC Irvine
+712,Bruce Stone,Continuing Lecturer,Writing Programs,UCLA
+713,Richard Huntsinger,Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
+714,Elizabeth Allen,Professor,English,UC Irvine
+715,Bruno Meyerhof Salama,Continuing Lecturer,Legal Studies,UC Berkeley
+716,Eric Rakowski,Professor Emeritus,Law,UC Berkeley
+717,Gregory LaBlanc,Lecturer/ Distinguished Teaching Fellow,Haas School of Business,UC Berkeley
+718,Mark Y. Rosenberg,Lecturer,"Political Science, Computational Social Science",UC Berkeley
+719,Brian Snyder,Clinical Professor,Emergency Medicine,UC San Diego
+720,Nilopa Shah,Lecturer,Economics,UC Berkeley
+721,Sheldon Rothblatt,Professor Emeritus,History,UC Berkeley
+722,Robert S Taylor,Professor,Political Science,UC Davis
+723,Giuliana Perco,Continuing Lecturer,Italian Studies,UC Berkeley
+724,John T Scott,Distinguished Professor,Political Science,UC Davis
+725,David Johnson,Professor,History,UC Berkeley
+726,Steven Brunner,Continuing Lecturer,Communication,UC Davis
+727,Tam Nomoto Schumann,Adjunct,Law,UC Irvine
+728,Vikram David Amar,Dykstra Endowed Chair and Professor of Law,School of Law,UC Davis
+729,Yenna Wu,Professor,Comparative Literature and Languages,UC Riverside
+730,William Davies King,Professor Emeritus,Theater and Dance,UC Santa Barbara
+731,Todd Mirell,Lecturer,Graduate School of Management,UC Davis
+732,Robert D Fannion,Lecturer,Political Economy,UC Berkeley
+733,Virginia Parks,Professor,Urban Planning,UC Irvine
+734,Jean Ahn,Senior Lecturer,Music,UC Berkeley
+735,Mark A. Peterson,"Professor of Public Policy, Political Science, Health Policy & Management, and Law",Public Policy,UCLA
+736,Ayako Yasuda,Professor,Graduate School of Management,UC Davis
+737,Yutian Tan,Continuing Lecturer,East Asian Languages and Cultures,UC Davis
+738,William Thompson,Professor Emeritus,"Criminology, Law & Society",UC Irvine
+739,Erik Engstrom,Professor,Political Science,UC Davis
+740,Victoria Petrovich,Professor,Theatre & Dance,UC San Diego
+741,Timothy Crockett,Continuing Lecturer,Philosophy,UC Berkeley
+742,Vidyanand Choudhary,Professor,Merage School of Business,UC Irvine
+743,Thomas E. Levy,Distinguished Professor,Qualcomm Institute,UC San Diego
+744,Fredrich Kahrl,Lecturer,Goldman School of Public Policy,UC Berkeley
+745,Ben Brinner,Professor,Music,UC Berkeley
+746,Lauren Peritz,Associate Professor,Political Science,UC Davis
+747,Amy Lerner,Associate Professor,Urban Studies and Planning,UC San Diego
+748,Zheng Sun,Professor,Paul Merage School of Business,UC Irvine
+749,David O. Brink,"Distinguished Professor, Valtz Family Chair in Philosophy",Philosophy,UC San Diego
+750,Amanda Geller,Associate Professor,"Criminology, Law and Society",UC Irvine
+751,Ashutosh Bhagwat,Distinguished Professor,Law,UC Davis
+752,Xin Xie,Assistant Professor,Language Science,UC Irvine
+753,Anastasia Berg,Assistant Professor,Philosophy,UC Irvine
+754,William Sieber,Clinical Profesor,Family Medicine,UC San Diego
+755,William J. Ashby,Professor Emeritus,French & Italian,UC Santa Barbara
+756,David Funder,"Distinguished Professor, Emeritus",Psychology,UC Riverside
+757,Bryan Donaldson,Professor,Languages and Applied Linguistics,UC Santa Cruz
+758,Frederick M. Dolan,Professor Emeritus,Rhetoric,UC Berkeley
+759,Alexandra Hill,Assistant Professor,Agricultural and Resource Economics,UC Berkeley
+760,Alan Simmons,Professor,Psychiatry,UC San Diego
+761,George Gutman,Professor Emeritus,Microbiology and Molecular Genetics,UC Irvine
+762,guillermo algaze,professor,anthropology,UC San Diego
+763,Perry Link,Distinguished Professor emeritus,Comparative Literature,UC Riverside
+764,Duncan Pritchard,Distinguished Professor,Philosophy,UC Irvine
+765,Anne Walthall,Professor emerita,History,UC Irvine
+766,Stephen Antonoplis,Assistant Professor,Psychology,UC Riverside
+767,Gerardo Perez Cavazos,Associate Professor,Rady School of Management,UC San Diego
+768,Erin Hill,Assistant Professor,Communicatino,UC San Diego
+769,Dirk Bartsch,Professor,Ophthalmology,UC San Diego
+770,Marco Gonzalez-Navarro,Associate Professor,Agricultural and Resource Economics,UC Berkeley
+771,Clayton Critcher,Professor,Haas School of Business,UC Berkeley
+772,Steven Gross,Professor Emeritus,Music,UC Santa Barbara
+773,Edward Watts,Vassiliadis Endowed Chair and Distinguished Professor,History,UC San Diego
+774,Rory O'Connell,Assistant Professor of Teaching,Philosophy,UC Irvine
+775,Vincent P. Crawford,Research Professor,Economics,UC San Diego
+776,David Serlin,Professor,Communication,UC San Diego
+777,Victoria Cross,Professor of Teaching,Psychology,UC Davis
+778,Denis Shishkin,Assistant Professor,Economics,UC San Diego
+779,Elaine C Tennant,Professor Emerita,German,UC Berkeley
+780,Greg McClure,Senior Continuing Lecturer,English,UC Irvine
+781,Bradley Queen,Associate Prof. of Teaching,English,UC Irvine
+782,Hemant Bhargava,"Distinguished Professor, Jerome and Elsie Suran Chair in Technology Management Associate Dean for Academic Affairs",Graduate School of Management,UC Davis
+783,Albert Russell Ascoli,Distinguished Professor Emeritus,Italian Studies,UC Berkeley
+784,Thomas C Leonard,Professor Emeritus,Graduate School of Journalism,UC Berkeley
+785,Finn Brunton,Professor,Science and Technology Studies / Cinema and Digital Media,UC Davis
+786,Jaimie Baron,Lecturer,Film and Media,UC Berkeley
+787,Ben Highton,Professor,Political Science,UC Davis
+788,"Eric M. Liederman, MD, MPH",Lecturer,Graduate School of Management,UC Davis
+789,Gary D. Libecap,"Distinguished Professor, Emeritus","Economics, Bren School of Environmental Science and Management",UC Santa Barbara
+790,Dehua Wang,Clinical associate professor,Pathology,UC San Diego
+791,Linda Garro,Professor,Anthropology,UCLA
+792,Garey Ramey,Professor Emeritus,Economics,UC San Diego
+793,Angeli Patel,Lecturer and Executive Director,Law,UC Berkeley
+794,Amanda L. Tyler,Professor of Law,Law,UC Berkeley
+795,Christina Lin,Lecturer,Architecture,UC Berkeley
+796,Thomas C Cesario,Professor Emeritus,Medicine,UC Irvine
+797,David Michael,Professor of Practice,School of Global Policy and Strategy,UC San Diego
+798,Jody Enders,Distinguished Professor Emerita,French and Italian,UC Santa Barbara
+799,Juan F. Tellez,Associate Prfoessor,Political Science,UC Davis
+800,Joseph P Pecore,Lecturer,Business,UC San Diego
+801,Jessica D'Elena-Tweed,Assistant Professor of Teaching,Visual Arts Department,UC San Diego
+802,Paul Terrell,Lecturer and Academic Adminitrator,Social Welfare,UC Berkeley
+803,Joline Chen,Health Sciences Professor,Medicine,UC Irvine
+804,Todd A. Henry,"Professor (as of July 1, 2026)",History,UC San Diego
+805,Ivan Jeliazkov,Associate Professor,Economics,UC Irvine
+806,James Kulik,Professor Emeritus,Psychology,UC San Diego
+807,Jonathon Paden,Lecturer,Visual arts,UC San Diego
+808,Katherine Ritchie,Associate Professor,Philosophy,UC Irvine
+809,Maki Takata,Lecturer,East Asian Languages and Cultures,UC Berkeley
+810,Jonathan Elkus,Lecturer Emeritus,Music,UC Davis
+811,Alan Brownstein,Distinguished Professor emeritus,School of Law,UC Davis
+812,Katherine Mandeville,Associate clinical professor,"Health sciences center, school of medicine",UC San Diego
+813,Jeff Tirshfield,Continuing Lecturer,Sociology,UC San Diego
+814,Kavan Hazeli,Professor,Mechanical Engineering,UC Riverside
+815,Joanne Zinger,Professor of Teaching,Psychology,UC Irvine
+816,Lucille Chia,Professor emerita,History,UC Riverside
+817,Klaus Nehring,Professor Emeritus,Economics,UC Davis
+818,Gabriella Montinola,Professor,Political Science,UC Davis
+819,Mark Fedyk,Professor,Internal Medicine,UC Davis
+820,Michelle Lou,Associate Professor,Music,UC San Diego
+821,Mark Rose,Research Professor,English,UC Santa Barbara
+822,Jordan Crandall,Professor,Visual Arts,UC San Diego
+823,Mary Gauvain,Distinguished Professor Emerita,Psychology,UC Riverside
+824,Kerry Vandell,Professor,Merage School of Business,UC Irvine
+825,Anthony Macias,Professor,Ethnic Studies,UC Riverside
+826,Robert Perez,Associate Professor,Ethnic Studies,UC Riverside
+827,Piotr Winkielman,Professor,Psychology,UC San Diego
+828,Mary Patterson,Associate Clinical Professor,Pediatrics,UC San Diego
+829,Daniel Fessler,Professor,Anthropology,UCLA
+830,Kayleigh Perkov,Assistant Professor,Science and Technology Studies,UC Davis
+831,Colin Milburn,Distinguished Professor,English / Science and Technology Studies / Cinema and Digital Media,UC Davis
+832,Hyemi Kang,Lecturer,Design,UC Davis
+833,Henrik Soederstroem,Lecturer,Visual Arts,UC San Diego
+834,Eric Steiner,Continuing Lecturer,Psychology,UC San Diego
+835,Alexandra Maryanski-Turner,Professor of the Graduate Division,Sociology,UC Riverside
+836,Jodi Collova,Academic Coordinator,Law,UC Berkeley
+837,Matthew Herbst,Teaching Professor and Director,Making of the Modern World Program,UC San Diego
+838,Matt Swisher,Associate Professor,Medicine,UC San Diego
+839,Meera Mahadevan,Assistant Professor,School of Global Policy and Strategy,UC San Diego
+840,William Elison,Associate Professor,Religious Studies,UC Santa Barbara
+841,A Susana Ramírez,Associate Professor,Public Health,UC Merced
+842,Michael F Joseph,Assistant Professor,Political Science,UC San Diego
+843,Christopher Hare,Associate Professor,Political Science,UC Davis
+844,Megan Boudewyn,Assistant Professor,Psychology,UC Santa Cruz
+845,Mateo Vasquez Cortes,"Assistant Professor,",School of Global Policy and Strategy,UC San Diego
+846,Mathieu Gregoire,Continuing Lecturer,Visual Arts,UC San Diego
+847,David K. Welsh,Professor Emeritus,Psychiatry,UC San Diego
+848,Ming D. Leung,Associate Professor,Merage School of Business,UC Irvine
+849,Mira Balberg,Professor,History,UC San Diego
+850,Clare Talwalker,Senior Continuing Lecturer,Interdisciplinary Social Sciences Program,UC Berkeley
+851,Nathan Moeder,Continuing Lecturer,Urban Studies & Planning,UC San Diego
+852,Natacha Akshoomoff,Recall Professor,Pediatrics,UC San Diego
+853,Nico Ravanilla,Associate Professor,Sch. of Global Policy & Strategy,UC San Diego
+854,Ojmarrh Mitchell,Professor,"Criminology, Law & Society",UC Irvine
+855,Norma Landau,Professor Emerita,History,UC Davis
+856,Patricia Smith Churchland,Professor emerita,Philosophy,UC San Diego
+857,Michelle Min,"Associate Professor, Medical Director",Medicine,UC Irvine
+858,Peter Keapp,Professor,Film and Media Studies,UC Irvine
+859,Pamela Ban,Associate Professor,Political Science,UC San Diego
+860,Peter H Lindert,Distinguished Professor (Emeritus),Economics,UC Davis
+861,Pierre Mérel,Professor,Agricultural and Resource Economics,UC Davis
+862,Nicolas Tackett,Professor,History,UC Berkeley
+863,Rein Taagepera,Professor,Political science,UC Irvine
+864,Todd Gilmer,Professor,School of Public Health,UC San Diego
+865,Michael Gottfredson,Professor Emeritus,"Criminology, Law and Society",UC Irvine
+866,Ping Zhu,Professor,Literature,UC San Diego
+867,Rachel Rong Chen,Professor,Graduate School of Management,UC Davis
+868,Peter J Kuhn,Distinguished Professor,Economics,UC Santa Barbara
+869,Qin-Hong Anderson,Senior Lecturer,Chinese Studies,UC San Diego
+870,Paul Eastwick,Professor,Psychology,UC Davis
+871,Jennifer Falbe,Associate Professor,Human Ecology,UC Davis
+872,James Doucet-Battle,Associate Professor,Sociology,UC Santa Cruz
+873,Sarah Schneewind,Professor Emerita,History,UC San Diego
+874,Sonja Lyubomirsky,Distinguished Professor,Psychology,UC Riverside
+875,Nate Franke,Continuing Lecturer,Business,UC Irvine
+876,Chuchu Liang,Assistant professor,Business,UC Irvine
+877,Shu-Hong Zhu,Professor,School of Public Health,UC San Diego
+878,Akos Rona-Tas,Professor,Sociology,UC San Diego
+879,Samying Huie,Lecturer,Rady School of Management,UC San Diego
+880,Michael Madani,Professor,Surgery,UC San Diego
+881,Robert B Horwitz,Professor emeritus,Communication,UC San Diego
+882,Christopher S. Elmendorf,Professor,School of Law,UC Davis
+883,Seth Hill,Professor,Political Science,UC San Diego
+884,Sheri Hartman,Professor,School of Public Health,UC San Diego
+885,Paul Chang,Associate Professor,Study of Religion,UC Riverside
+886,Sharon Koppman,Associate Professor,Management,UC Irvine
+887,Ruth Rosen,Professor Emerita,History,UC Davis
+888,Clarissa J. Reese,Senior Continuing Lecturer,Human Developmental Sciences,UC San Diego
+889,Cora Snyder,Lecturer,Bren School of Environmental Science & Management,UC Santa Barbara
+890,Christopher W. Bauman,Professor,Paul Merage School of Business,UC Irvine
+891,Christopher Gopal,Lecturer,School of Management,UC San Diego
