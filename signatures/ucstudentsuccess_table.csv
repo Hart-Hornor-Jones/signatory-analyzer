@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,2301,,
+1,Number of signatories,2305,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -1373,7 +1373,7 @@
 1372,Heather Haveman,Professor,Sociology and Haas,UC Berkeley
 1373,Dave May,Associate Professor,Scripps Institution of Oceanography,UC San Diego
 1374,Rudy M. Ortiz,Professor,MCB,UC Merced
-1375,Paul Micevych,senior Associate Dean,Nursing,UCLA
+1375,Paul Micevych,Senior Associate Dean,Nursing,UCLA
 1376,Wenting Song,Assistant Professor,Economics,UC Davis
 1377,Michael Ragone,Morrey Visiting Assistant Professor,Mathematics,UC Berkeley
 1378,Thomas Young,Professor,Civil and Environmental Engineering,UC Davis
@@ -2302,3 +2302,7 @@
 2301,Daniel Moen,Assistant Professor,EEOB,UC Riverside
 2302,Perry Johnson,Associate Professor,Mechanical and Aerospace Engineering,UC Irvine
 2303,Michael Delwiche,Professor Emeritus,Biological and Agricultural Engineering,UC Davis
+2304,Kevin M. Ringelman,Assistant Professor,"Wildlife, Fish, and Conservation Biology",UC Davis
+2305,Sunil J Advani,Professor,Radiation Medicine and Applied Sciences,UC San Diego
+2306,Ram Sundara Raman,Assistant Professor,Computer Science and Engineering,UC Santa Cruz
+2307,Pavan Kadandale,Professor of Teaching,Molecular biology and Biochemistry,UC Irvine
