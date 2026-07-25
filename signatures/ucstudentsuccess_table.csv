@@ -1,5 +1,5 @@
 ﻿column_1,column_2,column_3,column_4,column_5
-1,Number of signatories,2370,,
+1,Number of signatories,2384,,
 2,Name,Title,Dept.,Campus
 3,Mina Aganagic,Professor,Mathematics and Physics,UC Berkeley
 4,Svetlana Jitomirskaya,Professor,Mathematics,UC Berkeley
@@ -205,7 +205,7 @@
 204,Shawn Shadden,Professor,Mechanical Engineering,UC Berkeley
 205,Luca Iliesiu,Assistant Professor,Physics,UC Berkeley
 206,Brendon Rhoades,Professor,Mathematics,UC San Diego
-207,Jennifer Doudna,Professor,Molecular and Cell Biology and Chemistry,UC Berkeley
+207,Jennifer Doudna,"Professor, Nobel Prize Winner",Molecular and Cell Biology and Chemistry,UC Berkeley
 208,Ethan Ligon,Professor,Agricultural and Resource Economics,UC Berkeley
 209,Robert Webber,Assistant Professor,Mathematics,UC San Diego
 210,Laura Escobar,Associate Professor,Mathematics,UC Santa Cruz
@@ -2371,3 +2371,17 @@
 2370,Michael Parsons,Associate Professor,Cell and Dev Bio,UC Irvine
 2371,Nitin Kataria,Lecturer,Electrical and Computer Engineering,UC Santa Barbara
 2372,"Samir Gupta, ND",Professor,Medicine,UC San Diego
+2373,Brian Fagan,Associated Clinical Professor,Pediatrics,UC San Diego
+2374,Susan Harrison,Professor,Environmental Science and Policy,UC Davis
+2375,Randy Schekman,"Professor, Nobel Prize Winner",Molecular and Cell Biology,UC Berkeley
+2376,Sarah Stockwell,Professor of Teaching,"Ecology, Behavior, and Evolution",UC San Diego
+2377,Lou Ignarro,"Professor Emeritus UCLA School of Medicine, Nobel Prize Winner",Pharmacology,UCLA
+2378,Pat Pannuto,Associate Professor,Computer Science and Engineering,UC San Diego
+2379,John Martinis,"Emeritus professor, Nobel Prize Winner",Physics,UC Santa Barbara
+2380,Andrea Ghez,"Professor, Nobel Prize winner",Physics & Astronomy,UCLA
+2381,Maya Petersen,Professor,"Biostatistics, Computational Precision Health",UC Berkeley
+2382,Scott Hodges,Professor,"Ecology, Evolution and Marine Biology",UC Santa Barbara
+2383,Sam Schriner,Associate Teaching Professor,Pharmaceutical Sciences,UC Irvine
+2384,Susan L Keen,"Professor of Teaching, Emerita",Evolution and Ecology,UC Davis
+2385,David Eisenbud,Professor,Mathematics,UC Berkeley
+2386,Andy Wan,Assistant Professor,Applied Mathematics,UC Merced
